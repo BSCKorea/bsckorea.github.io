@@ -63,8 +63,8 @@ repository_tree: master
 ##############################
 paths:
   root    : / # title link url, "/" (default)
-  home    : / # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  home    : /2021/06/11/Korea-BeatSaber-League-2021.html # home layout url, "/" (default)
+  archive : /archive.html # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
 
