@@ -1,6 +1,10 @@
 ---
 title: Korea BeatSaber Leauge 2021
 tags: K-BL
+article_header:
+  type: cover
+  image:
+    src: /img/banner2021kor.png
 ---
 
 # 리그 일정
