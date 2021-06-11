@@ -22,7 +22,7 @@ url     : https://bsckorea.github.io/  # the base hostname & protocol for your s
 baseurl : # does not include hostname
 title   : Beat Saber Community for Korea
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  한국 비트세이버 커뮤니티 / Beat Saber Community for Korea
 
 
 ## => Language and Timezone
