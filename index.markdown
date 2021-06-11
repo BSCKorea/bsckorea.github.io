@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[![KBL2021](./img/banner2021kor.png){: width="100%"}](./2021/06/11/Korea-BeatSaber-League-2021.html)
+[![KBL2021](./img/banner2021kor.png){: width="100%"}](/2021/05/17/Korea-BeatSaber-League-2021.html)
