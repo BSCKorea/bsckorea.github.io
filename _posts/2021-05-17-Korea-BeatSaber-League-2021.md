@@ -36,9 +36,8 @@ M.I.L.F. | Kawai Sprite | Wowowood | Expert+ | [1296f](https://beatsaver.com/bea
 Hammer o Denpa Song ni Shitemita | kana | CoolingCloset | Expert+ | [1f3b](https://beatsaver.com/beatmap/1f3b) | [Preview](https://skystudioapps.com/bs-viewer/?id=1f3b)
 Amelia Watson BGM (Short Ver) | DOVA-SYNDROME | Hoppaw & Bobbie | Expert+ | [126d7](https://beatsaver.com/beatmap/126d7) | [Preview](https://skystudioapps.com/bs-viewer/?id=126d7)
 Again | YUI | squeaksies | Expert+ | [360f](https://beatsaver.com/beatmap/360f) | [Preview](https://skystudioapps.com/bs-viewer/?id=360f)
-Ai Kotoba III | DECO*27 ft. Hatsune Miku
- | Edzo | Expert+ | [1d42](https://beatsaver.com/beatmap/1d42) | [Preview](https://skystudioapps.com/bs-viewer/?id=1d42)
-	166 - Suzuya Homerarete Nobiru Type Nandesu. | saradisk | Pug | Expert+ | [5f00](https://beatsaver.com/beatmap/5f00) | [Preview](https://skystudioapps.com/bs-viewer/?id=5f00)
+Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beatsaver.com/beatmap/1d42) | [Preview](https://skystudioapps.com/bs-viewer/?id=1d42)
+166 - Suzuya Homerarete Nobiru Type Nandesu. | saradisk | Pug | Expert+ | [5f00](https://beatsaver.com/beatmap/5f00) | [Preview](https://skystudioapps.com/bs-viewer/?id=5f00)
 
 # 이벤트
 
