@@ -43,7 +43,8 @@ Again | YUI | squeaksies | Expert+ | [360f](https://beatsaver.com/beatmap/360f) 
 Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beatsaver.com/beatmap/1d42) | [Preview](https://skystudioapps.com/bs-viewer/?id=1d42)
 166 - Suzuya Homerarete Nobiru Type Nandesu. | saradisk | Pug | Expert+ | [5f00](https://beatsaver.com/beatmap/5f00) | [Preview](https://skystudioapps.com/bs-viewer/?id=5f00)
 
-예선전 플레이리스트 다운로드: [플레이리스트](https://raw.githubusercontent.com/BSCKorea/K-BL-MapPool/main/K-BL_Qualifier_Day_1.json)
+예선전 플레이리스트 다운로드
+<a href="https://raw.githubusercontent.com/BSCKorea/K-BL-MapPool/main/K-BL_Qualifier_Day_1.json" download>플레이리스트</a>
 
 <a href="bsplaylist://playlist/https://raw.githubusercontent.com/BSCKorea/K-BL-MapPool/main/K-BL_Qualifier_Day_1.json" title="원클릭 다운로드">One Click Install</a>
 
