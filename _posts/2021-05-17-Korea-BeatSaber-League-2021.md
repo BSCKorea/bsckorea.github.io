@@ -25,6 +25,10 @@ article_header:
 
 [참가자 명단 링크](/2021/06/11/KBL-2021-참가자명단.html)
 
+# 링크
+- [BSCK 디스코드](https://discord.gg/SEFBZrG)
+- [참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)
+
 # 맵 풀
 ## 7월 10일 예선전
 
@@ -48,10 +52,6 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 > 상품 미공개
 >
 > 참가신청서에 받고 싶은 상품을 기재해주세요
-
-# 연락처
-
-[디스코드](https://discord.gg/SEFBZrG)
 
 # 스폰서
 
