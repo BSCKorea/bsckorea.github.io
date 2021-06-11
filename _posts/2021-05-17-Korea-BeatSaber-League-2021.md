@@ -1,5 +1,5 @@
 ---
-title: Korea BeatSaber Leauge 2021
+title: Korea BeatSaber League 2021
 tags: K-BL
 article_header:
   type: cover
