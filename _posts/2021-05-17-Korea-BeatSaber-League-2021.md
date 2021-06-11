@@ -25,6 +25,21 @@ article_header:
 
 [참가자 명단 링크](/2021/06/11/KBL-2021-참가자명단.html)
 
+# 맵 풀
+## 7월 10일 예선전
+
+곡 이름 | 아티스트 | 매퍼 | 난이도 | BeatSaver | Preview
+:---|:---|:---|:---|:---|:---
+Unity vs Megalovania | TheFatRat | Emir | Expert | [18d9d](https://beatsaver.com/beatmap/18d9d) | [Preview](https://skystudioapps.com/bs-viewer/?id=18d9d)
+sweets parade | Roromiya Karuta(Hanazawa Kana) | Rigid | Expert+ | [82a3](https://beatsaver.com/beatmap/82a3) | [Preview](https://skystudioapps.com/bs-viewer/?id=82a3)
+M.I.L.F. | Kawai Sprite | Wowowood | Expert+ | [1296f](https://beatsaver.com/beatmap/1296f) | [Preview](https://skystudioapps.com/bs-viewer/?id=1296f)
+Hammer o Denpa Song ni Shitemita | kana | CoolingCloset | Expert+ | [1f3b](https://beatsaver.com/beatmap/1f3b) | [Preview](https://skystudioapps.com/bs-viewer/?id=1f3b)
+Amelia Watson BGM (Short Ver) | DOVA-SYNDROME | Hoppaw & Bobbie | Expert+ | [126d7](https://beatsaver.com/beatmap/126d7) | [Preview](https://skystudioapps.com/bs-viewer/?id=126d7)
+Again | YUI | squeaksies | Expert+ | [360f](https://beatsaver.com/beatmap/360f) | [Preview](https://skystudioapps.com/bs-viewer/?id=360f)
+Ai Kotoba III | DECO*27 ft. Hatsune Miku
+ | Edzo | Expert+ | [1d42](https://beatsaver.com/beatmap/1d42) | [Preview](https://skystudioapps.com/bs-viewer/?id=1d42)
+	166 - Suzuya Homerarete Nobiru Type Nandesu. | saradisk | Pug | Expert+ | [5f00](https://beatsaver.com/beatmap/5f00) | [Preview](https://skystudioapps.com/bs-viewer/?id=5f00)
+
 # 이벤트
 
 준비중
