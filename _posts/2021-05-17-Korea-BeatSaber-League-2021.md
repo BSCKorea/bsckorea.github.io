@@ -7,9 +7,10 @@ article_header:
     src: /img/banner2021kor.png
 ---
 
-# 참가 신청
+# 2차 참가 신청
 
-6월 12일 23시 59분까지 [링크](https://forms.gle/z1Vq5rUUrXmH23dNA)에 들어가서 참여
+6월 27일 00시 00분까지 [링크](https://forms.gle/GcgUxdpbgK7kwzFi8)에 들어가서 참여
+*1차에 참가신청넣은분들과 조편성 따로할예정입니다.
 
 # 리그 일정
 
