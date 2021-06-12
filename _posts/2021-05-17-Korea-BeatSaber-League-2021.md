@@ -33,7 +33,8 @@ article_header:
 
 # 링크
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
-- ~~[참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)~~ 신청 마감
+- ~~[1차 참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)~~ 1차 신청 마감
+- [2차 참가 신청 (~6/26)](https://forms.gle/GcgUxdpbgK7kwzFi8)
 
 # 조직원
 
