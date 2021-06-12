@@ -17,8 +17,8 @@ article_header:
 
 날짜 | 일정
 :---|:---
-7월 10일 | 참가자 총원 4인 1조 랜덤으로 조 편성<br>순위 별로 총원 '매운맛' 및 '순한맛'으로 배분
-7월 11일 | 1차에서 나누어진 리그별로 새롭게 조 편성<br>인원 부족으로 인한 룰 변경 예정
+7월 10일 | 참가자 총원 4인 1조 랜덤으로 조 편성<br>순위 별로 총원 '매운맛' 및 '순한맛'으로<br>* 1,2등 > 매운맛 / 3,4등 > 순한맛
+7월 11일 | 1차에서 나누어진 리그별로 조 편성<br>승점제로 순위결정<br>1,2위 또는 1위 결승진출
 7월 17일 | 준결승 및 결승 (상세 진행방식 7월 12일 공개)
 
 # 참가자 명단
@@ -37,7 +37,8 @@ article_header:
 <span style="color:Orange"><b>Community<br>Staff</b></span> | ![](/img/arte.jpg){:height="25px" style="border-radius: 50%"} [Artemisblue](https://discord.com/users/185254600679489538) ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_Bu](https://discord.com/users/812653994799136778) ![](/img/soba.jpg){:height="25px" style="border-radius: 50%"} [Soba's](https://discord.com/users/292320888072830977) ![](/img/lemo.jpg){:height="25px" style="border-radius: 50%"} [Lemonade](https://discord.com/users/275218075916304386) ![](/img/mum.jpg){:height="25px" style="border-radius: 50%"} [makeUmove](https://discord.com/users/316174420467122177)
 <span style="color:purple"><b>Event Staff</b></span> | ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_Bu](https://discord.com/users/812653994799136778) 
 <span style="color:	#1E90FF"><b>Supporter</b></span> | ![](/img/sui_profile.jpeg){:height="25px" style="border-radius: 50%"} [x__SUI__x](https://discord.com/users/427155987179503617)
-<span style="color:yellow"><b>Sponsor</b></span> | ![](/img/cyan.jpg){:height="25px" style="border-radius: 50%"} [Cyan](https://discord.com/users/405288431560687628) ![](/img/karuru.jpg){:height="25px" style="border-radius: 50%"} [Karuru392](https://discord.com/users/495821183355322391)
+<span style="color: #FFD700"><b>Sponsor</b></span> | ![](/img/cyan.jpg){:height="25px" style="border-radius: 50%"} [Cyan](https://discord.com/users/405288431560687628) ![](/img/karuru.jpg){:height="25px" style="border-radius: 50%"} [Karuru392](https://discord.com/users/495821183355322391)
+<span style="color:	#8B0000"><b>Caster</b></span> | 구합니다 열정페이 입니다 ^^ 문의는 [kaffu#7363](https://discord.com/users/346708637315629057)
 
 # 맵 풀
 ## 7월 10일 예선전
@@ -58,6 +59,8 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 
 <a href="bsplaylist://playlist/https://raw.githubusercontent.com/BSCKorea/K-BL-MapPool/main/K-BL_Qualifier_Day_1.json" title="원클릭 다운로드">One Click Install</a>
 
+그외 맵풀 확인 >> [11일 & 17일](/2021/06/12/mappools.html)
+
 # 이벤트
 
 준비중
@@ -75,5 +78,3 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 >CYAN , Karuru392
 >
 >스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
-
-
