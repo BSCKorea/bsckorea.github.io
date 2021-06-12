@@ -9,17 +9,21 @@ article_header:
 
 # 참가 신청
 
-6월 12일 23시 59분까지 [링크](https://forms.gle/z1Vq5rUUrXmH23dNA)에 들어가서 참여
+~~6월 12일 23시 59분까지 [링크](https://forms.gle/z1Vq5rUUrXmH23dNA)에 들어가서 참여~~
+
+접수 마감
 
 # 리그 일정
 
-각 날짜 19:00 KST 이후 진행 예정 (추후 변동 가능)
+각 날짜 7PM KST 이후 진행 예정 (추후 변동 가능)
 
 날짜 | 일정
 :---|:---
-7월 10일 | 참가자 총원 4인 1조 랜덤으로 조 편성<br>순위 별로 총원 '매운맛' 및 '순한맛'으로<br>* 1,2등 > 매운맛 / 3,4등 > 순한맛
-7월 11일 | 1차에서 나누어진 리그별로 조 편성<br>승점제로 순위결정<br>1,2위 또는 1위 결승진출
-7월 17일 | 준결승 및 결승 (상세 진행방식 7월 12일 공개)
+5월 17일 (월) | 참가신청
+6월 12일 (토) | 참가신청 마감
+7월 10일 (토) | **예선**<br>- 참가자 총원 4인 1조 랜덤으로 조 편성<br>- 순위 별로 총원 '매운맛' 및 '순한맛'으로<br>  * 1,2등 > 매운맛<br>  * 3,4등 > 순한맛
+7월 11일 (일) | **본선**<br>- 1차에서 나누어진 리그별로 조 편성<br>- 승점제로 순위결정<br>  * 1,2위 또는 1위 결승진출
+7월 17일 (토) | **준결승** / **결승**<br>상세 진행방식 7월 12일 공개
 
 # 참가자 명단
 
@@ -27,11 +31,11 @@ article_header:
 
 # 링크
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
-- [참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)
+- ~~[참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)~~ 신청 마감
 
 # 조직원
 
-계급 | 인원
+포지션 | 인원
 :---|:---
 <span style="color:magenta"><b>Master</b></span> | ![](/img/kaffu.jpg){:height="25px" style="border-radius: 50%"} [<span style="color:red"><b>Kaffu</b></span>](https://discord.com/users/346708637315629057)
 <span style="color:Orange"><b>Community<br>Staff</b></span> | ![](/img/arte.jpg){:height="25px" style="border-radius: 50%"} [Artemisblue](https://discord.com/users/185254600679489538) ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_Bu](https://discord.com/users/812653994799136778) ![](/img/soba.jpg){:height="25px" style="border-radius: 50%"} [Soba's](https://discord.com/users/292320888072830977) ![](/img/lemo.jpg){:height="25px" style="border-radius: 50%"} [Lemonade](https://discord.com/users/275218075916304386) ![](/img/mum.jpg){:height="25px" style="border-radius: 50%"} [makeUmove](https://discord.com/users/316174420467122177)
@@ -67,14 +71,15 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 
 # 상품
 
-> 매운맛 : 100$ + @
->
-> 순한맛 : 50$ + @
->
+순위 | 상품
+:---|:---
+매운맛 | 100$ + @
+순한맛 | 50$ + @
+
 > 상세 상품 비공개
 
 # 스폰서
 
->CYAN , Karuru392
->
->스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
+CYAN, Karuru392
+
+> 스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
