@@ -70,8 +70,8 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 
 계급 | 인원
 :---|:---
-<span style="color:magenta"><b>Master</b></span> | [<span style="color:white"><b>Kaffu</b></span>](https://discord.com/users/346708637315629057)
+<span style="color:magenta"><b>Master</b></span> | [<span style="color:red"><b>Kaffu</b></span>](https://discord.com/users/346708637315629057)
 <span style="color:Orange"><b>Community<br>Staff</b></span> | [Artemisblue](https://discord.com/users/185254600679489538) [i_bu](https://discord.com/users/812653994799136778) [Soba's](https://discord.com/users/292320888072830977) [레몬에이드](https://discord.com/users/275218075916304386) [makeumove](https://discord.com/users/316174420467122177)
 <span style="color:purple"><b>Event Staff</b></span> | [i_bu](https://discord.com/users/812653994799136778) 
-<span style="color:	#1E90FF"><b>Supporter</b></span> | ![test](https://scoresaber.com/imports/images/usr-avatars/76561198357821968.jpg){:height="25px"} [x__SUI__x](https://discord.com/users/427155987179503617)
-<span style="color:White"><b>Sponsor</b></span> | [Cyan](https://discord.com/users/405288431560687628) [Karuru392](https://discord.com/users/495821183355322391)
+<span style="color:	#1E90FF"><b>Supporter</b></span> | ![SS](https://scoresaber.com/imports/images/usr-avatars/76561198357821968.jpg){:height="25px" border-radius="70%"} [x__SUI__x](https://discord.com/users/427155987179503617)
+<span style="color:yellow"><b>Sponsor</b></span> | [Cyan](https://discord.com/users/405288431560687628) [Karuru392](https://discord.com/users/495821183355322391)
