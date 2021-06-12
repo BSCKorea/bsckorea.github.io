@@ -5,6 +5,11 @@ header:
     url: /2021/05/17/Korea-BeatSaber-League-2021.html
     
   - titles:
+      en      : &EN       Discord
+      ko      : &KO       디스코드
+    url: https://discord.gg/SEFBZrG
+  
+  - titles:
       # @start locale config
       en      : &EN       Archive
       ko      : &KO       아카이브
