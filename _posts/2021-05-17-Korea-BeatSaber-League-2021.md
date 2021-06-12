@@ -54,13 +54,15 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 
 # 상품
 
-> 상품 미공개
+> 매운맛 : 100$ + @
 >
-> 참가신청서에 받고 싶은 상품을 기재해주세요
+> 순한맛 : 50$ + @
+>
+> 상세 상품 비공개
 
 # 스폰서
 
-CYAN
-
-스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
+>CYAN , Karuru392
+>
+>스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
 
