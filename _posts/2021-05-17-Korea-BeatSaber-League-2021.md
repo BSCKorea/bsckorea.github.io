@@ -70,9 +70,8 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 
 계급 | 인원
 :---|:---
-<span style="color:magenta"><b>Master</b></span> | ![](){:height="25px"}[<span style="color:red"><b>Kaffu</b></span>](https://discord.com/users/346708637315629057)
-<span style="color:Orange"><b>Community<br>Staff</b></span> | ![](){:height="25px"}[Artemisblue](https://discord.com/users/185254600679489538) ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_bu](https://discord.com/users/812653994799136778) ![](){:height="25px"}[Soba's](https://discord.com/users/292320888072830977) ![](){:height="25px"}[레몬에이드](https://discord.com/users/275218075916304386) ![](){:height="25px"}[makeumove](https://discord.com/users/316174420467122177)
+<span style="color:magenta"><b>Master</b></span> | ![](/img/kaffu.jpg){:height="25px" style="border-radius: 50%"}[<span style="color:red"><b>Kaffu</b></span>](https://discord.com/users/346708637315629057)
+<span style="color:Orange"><b>Community<br>Staff</b></span> | ![](/img/arte.jpg){:height="25px" style="border-radius: 50%"}[Artemisblue](https://discord.com/users/185254600679489538) ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_bu](https://discord.com/users/812653994799136778) ![](/img/soba.jpg){:height="25px" style="border-radius: 50%"}[Soba's](https://discord.com/users/292320888072830977) ![](/img/lemo.jpg){:height="25px" style="border-radius: 50%"}[Lemonade](https://discord.com/users/275218075916304386) ![](/img/mum.jpg){:height="25px" style="border-radius: 50%"}[makeumove](https://discord.com/users/316174420467122177)
 <span style="color:purple"><b>Event Staff</b></span> | ![](/img/i_bu.jpg){:height="25px" style="border-radius: 50%"} [i_bu](https://discord.com/users/812653994799136778) 
 <span style="color:	#1E90FF"><b>Supporter</b></span> | ![](/img/sui_profile.jpeg){:height="25px" style="border-radius: 50%"} [x__SUI__x](https://discord.com/users/427155987179503617)
-<span style="color:yellow"><b>Sponsor</b></span> | ![](){:height="25px"}[Cyan](https://discord.com/users/405288431560687628) ![](){:height="25px"}[Karuru392](https://discord.com/users/495821183355322391)
-
+<span style="color:yellow"><b>Sponsor</b></span> | ![](/img/cyan.jpg){:height="25px" style="border-radius: 50%"}[Cyan](https://discord.com/users/405288431560687628) ![](/img/karuru.jpg){:height="25px" style="border-radius: 50%"}[Karuru392](https://discord.com/users/495821183355322391)
