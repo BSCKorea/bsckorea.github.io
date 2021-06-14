@@ -1,5 +1,10 @@
 header:
   - titles:
+      en      : &EN       정보
+      ko      : &KO       정보
+    url: /informationmain.html
+
+  - titles:
       en      : &EN       K-BL 2021
       ko      : &KO       K-BL 2021
     url: /2021/05/17/Korea-BeatSaber-League-2021.html
