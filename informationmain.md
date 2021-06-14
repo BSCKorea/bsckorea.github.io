@@ -1,6 +1,4 @@
 ---
-title:
-tags: 
 article_header:
   type: cover
   image:
