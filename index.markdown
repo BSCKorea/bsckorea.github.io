@@ -10,11 +10,11 @@ layout: home
 
 <div style="width:50%; float:left;">
 <a href="https://discord.gg/SEFBZrG">
-    <img src="/img/discordbanner.png">
+    <img width="50%" src="/img/discordbanner.png">
 </a>
 </div>
 <div style="width:50%; float:left;">
 <a href="/informationmain.html">
-    <img src="/img/information.png">
+    <img width="50%" src="/img/information.png">
 </a>
 </div>
