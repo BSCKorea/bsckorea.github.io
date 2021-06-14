@@ -1,10 +1,8 @@
 ---
 layout: home
-article_header:
-  type: cover
-  image:
-    src: /img/information.png
 ---
+
+![KBL2021](./img/information.png){: width="100%"}
 
 # 자주하는질문
 
