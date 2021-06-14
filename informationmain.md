@@ -4,5 +4,5 @@ tags: Information Sharing
 article_header:
   type: cover
   image:
-    src: /img/bsckbanner.png
+    src: /img/information.png
 ---
