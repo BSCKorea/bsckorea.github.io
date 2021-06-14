@@ -9,8 +9,12 @@ layout: home
 [![KBL2021](./img/banner2021kor.png){: width="100%"}](/2021/05/17/Korea-BeatSaber-League-2021.html)
 
 <div style="float:left;">
-[![Discord](/img/discordbanner.png){: width="50%"}](https://discord.gg/SEFBZrG)
+<a href="https://discord.gg/SEFBZrG">
+    <img src="/img/discordbanner.png">
+</a>
 </div>
-<div style="float:right;">
-[![information](/img/information.png){: width="50%"}](/informationmain.html)
+<div style="float:left;">
+<a href="/informationmain.html">
+    <img src="/img/information.png">
+</a>
 </div>
