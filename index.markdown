@@ -11,7 +11,6 @@ layout: home
 <div style="float:left;">
 [![Discord](/img/discordbanner.png){: width="50%"}](https://discord.gg/SEFBZrG)
 </div>
-<div style="float:left;">
+<div style="float:right;">
 [![information](/img/information.png){: width="50%"}](/informationmain.html)
 </div>
-
