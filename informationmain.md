@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 # 자주하는질문
