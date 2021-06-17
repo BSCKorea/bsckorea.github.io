@@ -38,4 +38,4 @@ tags: 정보
 
 모드어시스턴트 구성품(?)
 
-![](/img/imformation/1.png)
+![](/img/information/1.png)
