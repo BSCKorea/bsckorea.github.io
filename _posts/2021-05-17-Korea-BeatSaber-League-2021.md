@@ -34,7 +34,7 @@ article_header:
 # 링크
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
 - ~~[1차 참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)~~ 1차 신청 마감
-- [2차 참가 신청 (~6/26)](https://forms.gle/GcgUxdpbgK7kwzFi8)~~ 2차 마감 7시간 전
+- [2차 참가 신청 (~6/26)](https://forms.gle/GcgUxdpbgK7kwzFi8) 2차 마감 7시간 전
 
 # 조직원
 
@@ -48,7 +48,7 @@ article_header:
 <span style="color:	#8B0000"><b>Caster</b></span> | 구합니다 열정페이 입니다 ^^ 문의는 [kaffu#7363](https://discord.com/users/346708637315629057)
 
 # 맵 풀
-## 6월27일~ 7월10일 예선전
+## 6월 27일 ~ 7월 10일 예선전
 
 곡 이름 | 아티스트 | 매퍼 | 난이도 | BeatSaver | Preview
 :---|:---|:---|:---|:---|:---
