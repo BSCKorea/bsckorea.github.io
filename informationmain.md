@@ -14,3 +14,8 @@ layout: home
 - [1.12 이후 커스텀곡 멀티 어떻게하나요?](/2021/06/17/how-to-multi-after-1-12.html)
 - [최신버전 모드 업데이트 어디까지 되었나요?](/2021/06/17/how-long-latest-mode-updates.html)
 - [Camera Plus 를 설치했는데 적용안됩니다](/2021/06/18/camera-plus-not-applied.html)
+- [플레이리스트는 어떻게 사용하나요?](/2021/06/26/how-to-use-playlist.html)
+- [Camera2 모드 사용법](/2021/06/26/camera2-mod-usage.html)
+- [클린 재설치 하는방법](/2021/06/26/how-to-clean-reinstall.html)
+- [비트세이버를 실행했는데 아이콘들이 사라졌어요!](/2021/06/26/icon-deleted-while-executing-beatsaber.html)
+- [오랜만에 다시와서 모드 설치했는데 무한 커넥팅이 뜨고 게임이 안됩니다.](/2021/06/26/infinite-connecting-during-modding.html)
