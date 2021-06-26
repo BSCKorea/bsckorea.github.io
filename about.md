@@ -8,4 +8,4 @@ titles:
 key: page-about
 ---
 
-한국 비트세이버 커뮤니티입니다.
+[한국 비트세이버 커뮤니티](https://discord.gg/SEFBZrG ) 깃헙 사이트 입니다..
