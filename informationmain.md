@@ -19,3 +19,5 @@ layout: home
 - [클린 재설치 하는방법](/2021/06/26/how-to-clean-reinstall.html)
 - [비트세이버를 실행했는데 아이콘들이 사라졌어요!](/2021/06/26/icon-deleted-while-executing-beatsaber.html)
 - [오랜만에 다시와서 모드 설치했는데 무한 커넥팅이 뜨고 게임이 안됩니다.](/2021/06/26/infinite-connecting-during-modding.html)
+- [커스텀 곡 실행이 안되요](/2021/06/27/custom-song-not-working.md)
+- [오큘러스 퀘스트2 커스텀곡 다운받기](/2021/06/27/oculus-quest2-custom-song-download.md)
