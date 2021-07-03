@@ -21,7 +21,7 @@ show_title: false
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        {% include group1.html %}
+        {% include faqs/group1.html %}
       </div>
     </div>
   </div>
