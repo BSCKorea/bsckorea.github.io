@@ -48,7 +48,7 @@ article_header:
 <span style="color:	#8B0000"><b>Caster</b></span> | 구합니다 열정페이 입니다 ^^ 문의는 [kaffu#7363](https://discord.com/users/346708637315629057)
 
 # 맵 풀
-## 6월 27일 ~ 7월 10일 예선전
+## 6월 27일 ~ 7월 10일 예선
 
 곡 이름 | 아티스트 | 매퍼 | 난이도 | BeatSaver | Preview
 :---|:---|:---|:---|:---|:---
@@ -65,6 +65,8 @@ Ai Kotoba III | DECO*27 ft. Hatsune Miku | Edzo | Expert+ | [1d42](https://beats
 <a href="/playlist/K-BL_Qualifier_Day_1.json" download>플레이리스트</a>
 
 <a href="bsplaylist://playlist/https://raw.githubusercontent.com/BSCKorea/K-BL-MapPool/main/K-BL_Qualifier_Day_1.json" title="원클릭 다운로드">One Click Install</a>
+
+## 7월 11일 ~ 7월 17일 본선/결승
 
 그외 맵풀 확인 >> [11일 & 17일](/2021/06/12/mappools.html)
 
