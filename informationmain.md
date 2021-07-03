@@ -21,9 +21,7 @@ show_title: false
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <div class="list-group">
-          <a href="/2021/07/03/kinect-fulltracking.html" class="list-group-item list-group-item-action">키넥트 풀트래킹 하는 법</a>
-        </div>
+        {% include group1.html %}
       </div>
     </div>
   </div>
