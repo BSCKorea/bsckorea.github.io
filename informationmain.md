@@ -4,13 +4,6 @@ layout: home
 
 ![](./img/information.png){: width="100%"}
 
-<div style="width:50%; float:left;">
-
-# 정보 모음
-
-</div>
-
-<div style="width:50%; float:left;">
 
 # 자주하는질문
 
@@ -35,5 +28,3 @@ layout: home
 - [오큘러스 퀘스트2 버전다운그레이드 (최신 → 1.13.2)](/2021/07/03/oculus-quest2-version-downgrade.html)
 - [비트세이버 다운그레이드 스크립트](/2021/07/03/beatsaber-downgrade-script.html)
 - [비트세이버 업데이트 방지 프로그램](/2021/07/03/beatsaber-update-shield.html)
-
-</div>
