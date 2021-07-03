@@ -20,8 +20,8 @@ show_title: false
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-      <div class="accordion-body" markdown="1">
-        - [키넥트 풀 트래킹 설정 방법](/2021/07/03/kinect-fulltracking.html)
+      <div class="accordion-body">
+        <li><a href="/2021/07/03/kinect-fulltracking.html">키넥트 풀 트래킹 설정 방법</a><li>
       </div>
     </div>
   </div>
