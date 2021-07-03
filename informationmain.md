@@ -1,6 +1,9 @@
 ---
 layout: home
+title: 정보 & 자주하는 질문
+show_title: false
 ---
+
 
 ![](./img/information.png){: width="100%"}
 
