@@ -5,6 +5,14 @@ layout: home
 ![](./img/information.png){: width="100%"}
 
 
+<div style="width:50%; float:left;" markdown="1">
+
+# 정보 집합소
+
+</div>
+
+<div style="width:50%; float:left;" markdown="1">
+
 # 자주하는질문
 
 - [비트세이버 모드 어떻게 설치하나요?](/2021/06/14/how-to-install-mode.html)
@@ -28,3 +36,5 @@ layout: home
 - [오큘러스 퀘스트2 버전다운그레이드 (최신 → 1.13.2)](/2021/07/03/oculus-quest2-version-downgrade.html)
 - [비트세이버 다운그레이드 스크립트](/2021/07/03/beatsaber-downgrade-script.html)
 - [비트세이버 업데이트 방지 프로그램](/2021/07/03/beatsaber-update-shield.html)
+
+</div>
