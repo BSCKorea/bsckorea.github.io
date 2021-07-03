@@ -21,7 +21,7 @@ show_title: false
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        1
+        - [키넥트 풀 트래킹 설정 방법](/2021/07/03/kinect-fulltracking.md)
       </div>
     </div>
   </div>
