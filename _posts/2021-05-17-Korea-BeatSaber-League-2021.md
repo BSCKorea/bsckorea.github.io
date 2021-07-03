@@ -7,11 +7,11 @@ article_header:
     src: /img/banner2021kor.png
 ---
 
-# 2차 참가 신청
+# 참가 신청
 
-6월 27일 00시 00분까지 [링크](https://forms.gle/GcgUxdpbgK7kwzFi8)에 들어가서 참여
+신청 마감
 
-* 1차에 참가신청 넣은분들과 조편성 따로할예정입니다.
+* 2차 신청자는 1차에 참가신청 넣은분들과 조편성 따로할예정입니다.
 
 # 리그 일정
 
@@ -34,7 +34,7 @@ article_header:
 # 링크
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
 - ~~[1차 참가 신청 (~6/12)](https://forms.gle/z1Vq5rUUrXmH23dNA)~~ 1차 신청 마감
-- [2차 참가 신청 (~6/26)](https://forms.gle/GcgUxdpbgK7kwzFi8) 2차 마감 7시간 전
+- ~~[2차 참가 신청 (~6/26)](https://forms.gle/GcgUxdpbgK7kwzFi8)~~ 2차 신청 마감
 
 # 조직원
 
