@@ -20,7 +20,9 @@ layout: home
     </a>
     </div>
 </div>
-<br/>
+
+- - -
+
 <div id="banner2">
     <div style="width:50%; float:left;">
     <a href="https://scoresaber.com/global?country=kr">
