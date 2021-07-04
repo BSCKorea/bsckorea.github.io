@@ -8,7 +8,7 @@ layout: home
 
 [![KBL2021](./img/banner2021kor.png){: width="100%"}](/2021/05/17/Korea-BeatSaber-League-2021.html)
 
-<p id="banner1">
+<div id="banner1">
     <div style="width:50%; float:left;">
     <a href="https://discord.gg/SEFBZrG">
         <img width="100%" src="/img/discordbanner.png">
@@ -19,9 +19,9 @@ layout: home
         <img width="100%" src="/img/information.png">
     </a>
     </div>
-</p>
+</div>
 
-<p id="banner2">
+<div id="banner2">
     <div style="width:50%; float:left;">
     <a href="https://scoresaber.com/global?country=kr">
         <img width="100%" src="/img/ssrankbanner.png">
@@ -32,4 +32,4 @@ layout: home
         <img width="100%" src="/img/bsckyoutubebanner.png">
     </a>
     </div>
-</p>
+</div>
