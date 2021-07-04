@@ -52,7 +52,7 @@ show_title: false
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        4
+        {% include faqs/group4.html %}
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@ show_title: false
     </h2>
     <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        5
+        {% include faqs/group5.html %}
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@ show_title: false
     </h2>
     <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        6
+        {% include faqs/group6.html %}
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@ show_title: false
     </h2>
     <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        7
+        {% include faqs/group7.html %}
       </div>
     </div>
   </div>
@@ -100,7 +100,7 @@ show_title: false
     </h2>
     <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        8
+        {% include faqs/group8.html %}
       </div>
     </div>
   </div>
@@ -112,7 +112,7 @@ show_title: false
     </h2>
     <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        9
+        {% include faqs/group9.html %}
       </div>
     </div>
   </div>
@@ -124,7 +124,7 @@ show_title: false
     </h2>
     <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        10
+        {% include faqs/group10.html %}
       </div>
     </div>
   </div>
@@ -136,7 +136,7 @@ show_title: false
     </h2>
     <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        11
+        {% include faqs/group11.html %}
       </div>
     </div>
   </div>
