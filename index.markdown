@@ -18,3 +18,14 @@ layout: home
     <img width="100%" src="/img/information.png">
 </a>
 </div>
+
+<div style="width:50%; float:left;">
+<a href="https://scoresaber.com/global?country=kr">
+    <img width="100%" src="/img/ssrankbanner.png">
+</a>
+</div>
+<div style="width:50%; float:left;">
+<a href="https://www.youtube.com/channel/UCketR2dF6__YpvVqjbh0g3A">
+    <img width="100%" src="/img/bsckyoutubebanner.png">
+</a>
+</div>
