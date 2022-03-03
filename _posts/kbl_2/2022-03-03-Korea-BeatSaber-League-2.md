@@ -1,15 +1,13 @@
 ---
 title: The II Korea BeatSaber League 2022
 tags: K-BL
-article_header:
-  type: cover
-  image:
-    src: /img/banner2021kor.png
 ---
+
+![/img/kbl2/poster.png](/img/kbl2/poster.png)
 
 # 참가 신청
 
-별도 공지 예정
+- [참가 신청 링크](https://forms.gle/M5z18HNjMggWx9Bm8)
 
 # 모집 부문
 
@@ -25,11 +23,11 @@ article_header:
 
 날짜 | 일정
 :---|:---
-~ | 신청 기간
-~ | 대회 곡 목록 공개
-~ | **예선**
-~ | **본선**
-~ | **준결승** / **결승**
+03/03 ~ 03/17 | 신청 기간
+03/05 | 대회 곡 목록 공개
+03/19 ~ 03/27 | **예선**
+04/02 ~ 04/10 | **본선**
+04/16 ~ 04/24 | **준결승** / **결승**
 
 # 참가자 명단
 
@@ -38,26 +36,30 @@ article_header:
 # 링크
 
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
+- [참가 신청 링크](https://forms.gle/M5z18HNjMggWx9Bm8)
 
 # 운영진
 
 포지션 | 인원
 :---|:---
-<span style="color:magenta"><b>Master</b></span> | 
-<span style="color:Orange"><b>Community Staff</b></span> | 
-<span style="color:purple"><b>Event Staff</b></span> | 
-<span style="color:	#1E90FF"><b>Supporter</b></span> | 
-<span style="color: #FFD700"><b>Sponsor</b></span> | 
+<span style="color:magenta"><b>Master</b></span> | `kaffu`
+<span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
+<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`
+<span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
+<span style="color: #FFD700"><b>Sponsor</b></span> | `SuiSensei`
+<span style="color:lightgreen"><b>Caster</b></span> | 모집 중
 
 # 맵 풀
 
-추후 공지 확인
+추후 공개 예정
 
 # 이벤트
 
 준비중
 
 # 상품
+
+> 현재 총 상금 **100,000원**
 
 <table>
 <thead>
@@ -120,4 +122,4 @@ article_header:
 
 - [Sui Sensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
 
-> 스폰, 후원, 상품 지원은 kaffu#7363으로 DM 주세요!
+> 스폰, 후원, 상품 지원은 디스코드 `kaffu#7363` 또는 `SuiSensei#3333` 으로 DM 주세요!
