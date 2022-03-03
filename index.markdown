@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-[![KBL2021](./img/banner2021kor.png){: width="100%"}](/2021/05/17/Korea-BeatSaber-League-2021.html)
+[![2KBL2022](./img/kbl2/poster.png){: width="50%"}](/2022/03/03/Korea-BeatSaber-League-2.html)
 
 <div id="banner1">
     <div style="width:50%; float:left;">
