@@ -44,10 +44,10 @@ tags: K-BL
 :---|:---
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
-<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`
+<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `Amylo`, `SieR`
 <span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
 <span style="color: #FFD700"><b>Sponsor</b></span> | `SuiSensei`
-<span style="color:lightgreen"><b>Caster</b></span> | 모집 중
+<span style="color:lightgreen"><b>Caster</b></span> | `Ted`
 
 # 맵 풀
 
