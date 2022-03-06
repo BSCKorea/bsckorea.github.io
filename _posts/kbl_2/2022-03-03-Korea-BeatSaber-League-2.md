@@ -46,7 +46,7 @@ tags: K-BL
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
 <span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `Amylo`, `SieR`
 <span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
-<span style="color: #FFD700"><b>Sponsor</b></span> | `SuiSensei`
+<span style="color: #FFD700"><b>Sponsor</b></span> | `SuiSensei`. `hudson`
 <span style="color:lightgreen"><b>Caster</b></span> | `Ted`
 
 # 맵 풀
@@ -129,12 +129,13 @@ tags: K-BL
 1. 모든 플레이어는 본인의 플레이를 영상이나 방송을 통해 공개할 수 있어야 합니다.
 2. 대회 중 처음 10초가 지난 이후에 곡을 정지하면 0점으로 처리합니다.
 3. 점수에 영향을 주는 모드나 점수가 ScoreSaber에 등록되지 않도록 하는 모드는 사용할 수 없습니다.
-4. 모든 경기는 대회 스태프의 참관 하에 진행되어야 합니다.
-5. 스팀, 오큘러스만 참가 가능하며, 비트세이버 버전은 1.17.0 이상 1.19.1 이하 버전만 사용 가능합니다.
+4. 모든 본선 경기는 대회 스태프의 참관 하에 진행되어야 합니다.
+5. 스팀, 오큘러스만 참가 가능하며, 비트세이버 버전은 1.17.0 이상 버전 중 ScoreSaber 모드가 사용 가능한 버전만 가능합니다.
 
 
 # 스폰서
 
-- [Sui Sensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+- [SuiSensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+- hudson
 
 > 스폰, 후원, 상품 지원은 디스코드 `kaffu#7363` 또는 `SuiSensei#3333` 으로 DM 주세요!
