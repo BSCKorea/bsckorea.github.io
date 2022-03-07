@@ -52,10 +52,10 @@ tags: K-BL
 
 # 스폰서
 
-[![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png)](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
-[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png)](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
-[![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png)](https://www.twitch.tv/tit99hds)
-![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png)
+[![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png){: width="100"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png){: width="100"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
+[![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png){: width="100"}](https://www.twitch.tv/tit99hds)
+![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png){: width="100"}
 
 # 맵 풀
 
