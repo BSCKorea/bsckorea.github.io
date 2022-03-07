@@ -54,11 +54,11 @@ tags: K-BL
 
 [![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
 
-[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png){: height="130"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
-
 [![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png){: height="130"}](https://www.twitch.tv/tit99hds)
 
-![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png){: height="130"}
+[![/img/kbl2/yt_karuru.png](/img/kbl2/yt_karuru.png){: height="130"}](https://www.youtube.com/channel/UCsQJiZvaBHKCh49_OgSt_ng)
+
+[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png){: height="130"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
 
 # 맵 풀
 
