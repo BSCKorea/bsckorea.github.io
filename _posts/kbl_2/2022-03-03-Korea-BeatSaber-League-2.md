@@ -46,8 +46,13 @@ tags: K-BL
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
 <span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `Amylo`, `SieR`
 <span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
-<span style="color: #FFD700"><b>Sponsor</b></span> | `SuiSensei`. `hudson`
 <span style="color:lightgreen"><b>Caster</b></span> | `Ted`
+
+# 스폰서
+
+- [SuiSensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+- hudson
+- karuru392
 
 # 맵 풀
 
@@ -59,7 +64,7 @@ tags: K-BL
 
 # 상품
 
-> 현재 총 상금 **100,000원**
+현재 총 상금 **250,000원**
 
 <table>
 <thead>
@@ -132,10 +137,5 @@ tags: K-BL
 4. 모든 본선 경기는 대회 스태프의 참관 하에 진행되어야 합니다.
 5. 스팀, 오큘러스만 참가 가능하며, 비트세이버 버전은 1.17.0 이상 버전 중 ScoreSaber 모드가 사용 가능한 버전만 가능합니다.
 
-
-# 스폰서
-
-- [SuiSensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
-- hudson
 
 > 스폰, 후원, 상품 지원은 디스코드 `kaffu#7363` 또는 `SuiSensei#3333` 으로 DM 주세요!
