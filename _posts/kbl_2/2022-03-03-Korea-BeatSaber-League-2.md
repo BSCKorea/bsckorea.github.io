@@ -33,7 +33,7 @@ tags: K-BL
 
 # 참가자 명단
 
-.
+추후 공개
 
 # 링크
 
@@ -46,16 +46,16 @@ tags: K-BL
 :---|:---
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
-<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `johadesu`, `SieR`, `Kory04`
-<span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
-<span style="color:lightgreen"><b>Caster</b></span> | `Ted`
+<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, ``Soba`s``, `johadesu`, `SieR`, `Kory04`
+<span style="color:	#1E90FF"><b>Community Supporter</b></span> | `Amylo`, `hestu`, `SieR`
+<span style="color:lightgreen"><b>Caster</b></span> | `Ted`, `LemoNade`
 
 # 스폰서
 
-- [SuiSensei](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
-- hudson
-- karuru392
-- [BBosom](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
+[![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png)](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png)](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
+[![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png)](https://www.twitch.tv/tit99hds)
+![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png)
 
 # 맵 풀
 
