@@ -5,6 +5,8 @@ tags: K-BL
 
 ![/img/kbl2/poster.png](/img/kbl2/poster.png)
 
+**대회 규칙 및 일정은 수시로 변경될 수 있으며 변경 사항에 대해서는 본 사이트를 참고해주시기 바랍니다.**
+
 # 참가 신청
 
 - [참가 신청 링크](https://forms.gle/M5z18HNjMggWx9Bm8)
@@ -44,7 +46,7 @@ tags: K-BL
 :---|:---
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
-<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `Amylo`, `SieR`
+<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, `johadesu`, `SieR`, `Kory04`
 <span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
 <span style="color:lightgreen"><b>Caster</b></span> | `Ted`
 
@@ -112,7 +114,7 @@ tags: K-BL
 ## 예선
 
 1. 참가 신청한 전원에 각 부문에 맞는 맵 6곡을 플레이합니다.
-2. 부문별로 점수 합이 높은 8명이 본선에 진출합니다.
+2. 부문별로 정확도 합이 높은 8명이 본선에 진출합니다.
 
 ## 본선
 
