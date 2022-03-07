@@ -47,15 +47,18 @@ tags: K-BL
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
 <span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, ``Soba`s``, `johadesu`, `SieR`, `Kory04`
-<span style="color:	#1E90FF"><b>Community Supporter</b></span> | `Amylo`, `hestu`, `SieR`
+<span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
 <span style="color:lightgreen"><b>Caster</b></span> | `Ted`, `LemoNade`
 
 # 스폰서
 
-[![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png){: width="100"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
-[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png){: width="100"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
-[![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png){: width="100"}](https://www.twitch.tv/tit99hds)
-![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png){: width="100"}
+[![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+
+[![/img/kbl2/yt_bbosom.png](/img/kbl2/yt_bbosom.png){: height="130"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
+
+[![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png){: height="130"}](https://www.twitch.tv/tit99hds)
+
+![/img/kbl2/none_karuru.png](/img/kbl2/none_karuru.png){: height="130"}
 
 # 맵 풀
 
