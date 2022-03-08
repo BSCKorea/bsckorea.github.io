@@ -52,6 +52,8 @@ tags: K-BL
 
 # 스폰서
 
+[![/img/kbl2/bs_pupupi.png](/img/kbl2/bs_pupupi.png){: height="130"}](https://beatsaver.com/profile/4319249)
+
 [![/img/kbl2/yt_suisensei.png](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
 
 [![/img/kbl2/tw_hudson.png](/img/kbl2/tw_hudson.png){: height="130"}](https://www.twitch.tv/tit99hds)
@@ -70,7 +72,7 @@ tags: K-BL
 
 # 상품
 
-현재 총 상금 **350,000원**
+<big>현재 총 상금 **500,000원**</big>
 
 <table>
 <thead>
@@ -83,7 +85,7 @@ tags: K-BL
   <tr>
     <td rowspan="3">1군<br></td>
     <td>1위</td>
-    <td>전체 상금의 18% + 기프티콘</td>
+    <td>전체 상금의 18%</td>
   </tr>
   <tr>
     <td>2위</td>
@@ -96,7 +98,7 @@ tags: K-BL
   <tr>
     <td rowspan="3">2군/3군</td>
     <td>1위</td>
-    <td>전체 상금의 15% + 기프티콘</td>
+    <td>전체 상금의 15%</td>
   </tr>
   <tr>
     <td>2위</td>
@@ -108,7 +110,7 @@ tags: K-BL
   </tr>
   <tr>
     <td colspan="2">특별상<br>(추후공지)</td>
-    <td>전체 상금의 9%</td>
+    <td>전체 상금의 9% + 기프티콘</td>
   </tr>
 </tbody>
 </table>
