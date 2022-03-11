@@ -64,7 +64,9 @@ tags: K-BL
 
 # 맵 풀
 
-추후 공개 예정
+## 예선
+
+[제2회 전자칼잽이 대전 예선 맵 풀](/2022/03/12/KBL2-Qualifiers-Map-pool.html)
 
 # 이벤트
 
@@ -96,7 +98,7 @@ tags: K-BL
     <td>전체 상금의 9%</td>
   </tr>
   <tr>
-    <td rowspan="3">2군/3군</td>
+    <td rowspan="3">2군</td>
     <td>1위</td>
     <td>전체 상금의 15%</td>
   </tr>
@@ -109,7 +111,20 @@ tags: K-BL
     <td>전체 상금의 6%</td>
   </tr>
   <tr>
-    <td colspan="2">특별상<br>(추후공지)</td>
+    <td rowspan="3">3군</td>
+    <td>1위</td>
+    <td>전체 상금의 15%</td>
+  </tr>
+  <tr>
+    <td>2위</td>
+    <td>전체 상금의 9%</td>
+  </tr>
+  <tr>
+    <td>3위</td>
+    <td>전체 상금의 6%</td>
+  </tr>
+  <tr>
+    <td colspan="2">특별상<br>(추후 공개)</td>
     <td>전체 상금의 9% + 기프티콘</td>
   </tr>
 </tbody>
