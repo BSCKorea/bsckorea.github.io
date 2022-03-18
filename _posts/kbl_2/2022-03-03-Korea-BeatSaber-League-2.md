@@ -33,7 +33,7 @@ tags: K-BL
 
 # 참가자 명단
 
-추후 공개
+[제2회 전자칼잽이 대회 예선 점수판](https://detegice.github.io/KBL2-Qualifers-Scoreboard/) 참고
 
 # 링크
 
@@ -67,6 +67,12 @@ tags: K-BL
 ## 예선
 
 [제2회 전자칼잽이 대전 예선 맵 풀](/2022/03/12/KBL2-Qualifiers-Map-pool.html)
+
+# 점수판 및 대진표
+
+## 예선
+
+[제2회 전자칼잽이 대회 예선 점수판](https://detegice.github.io/KBL2-Qualifers-Scoreboard/)
 
 # 이벤트
 
