@@ -16,8 +16,7 @@ Climax (Kobaryo's FTN-Remix) | USAO | Avexus | Expert+ | [1f0de](https://beatsav
 Faithful dog "Hachi" | TUYU | vekikano | Expert+ | [1be93](https://beatsaver.com/maps/1be93) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1be93)
 Date 2 (From "Your Name") | RADWIMPS | Dailyy | Hard | [2215c](https://beatsaver.com/maps/2215c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2215c)
 
-
-[1군 맵 풀 다운로드](/playlist/k_bl_1st_division_map_pool_qualifier.json)
+<a href="#" download="/playlist/k_bl_1st_division_map_pool_qualifier.json">1군 맵 풀 다운로드</a>
 
 # 2군
 
@@ -30,7 +29,7 @@ Maze No.9 | Alice Schach and the Magic Orchestra | johadesu | Expert+ | [d46b](h
 Chocolate Missile | Alice Schach and the Magic Orchestra | johadesu | Expert+ | [d485](https://beatsaver.com/maps/d485) | [미리보기](https://skystudioapps.com/bs-viewer/?id=d485)
 Wocky - VS. Kapi Mod OST | Paperkitty | johadesu | Expert+ | [197d4](https://beatsaver.com/maps/197d4) | [미리보기](https://skystudioapps.com/bs-viewer/?id=197d4)
 
-[2군 맵 풀 다운로드](/playlist/k_bl_2nd_division_map_pool_qualifier.json)
+<a href="#" download="/playlist/k_bl_2nd_division_map_pool_qualifier.json">2군 맵 풀 다운로드</a>
 
 # 3군
 
@@ -43,7 +42,7 @@ Muyaho | TAEB | johadesu | Expert | [1506e](https://beatsaver.com/maps/1506e) | 
 Ferocious Battlefield | ASTERIA | johadesu | Expert | [d2d2](https://beatsaver.com/maps/d2d2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=d2d2)
 In to the Night (ENG VER) | Yoasobi | pupupi | Expert | [21fae](https://beatsaver.com/maps/21fae) | [미리보기](https://skystudioapps.com/bs-viewer/?id=21fae)
 
-[3군 맵 풀 다운로드](/playlist/k_bl_3rd_division_map_pool_qualifier.json)
+<a href="#" download="/playlist/k_bl_3rd_division_map_pool_qualifier.json">3군 맵 풀 다운로드</a>
 
 # Map pool Team
 
