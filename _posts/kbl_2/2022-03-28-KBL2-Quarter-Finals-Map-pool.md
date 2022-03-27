@@ -35,7 +35,7 @@ Lose Control | Hedley | Bytrius | Expert+ | [15d15](https://beatsaver.com/maps/1
 God-ish- | sekai | Ani vs Salami | Expert | [1d865](https://beatsaver.com/maps/1d865) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d865)
 BIG SHOT (Camellia Remix) | Toby Fox | Joshabi | Expert |  [1d3e3](https://beatsaver.com/maps/1d3e3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d3e3)
 
-<a href="#" download="/playlist/KBSL2-8.bplist">2군 맵 풀 다운로드</a>
+<a href="#" download="https://bsckorea.github.io/playlist/KBSL2-8.bplist">2군 맵 풀 다운로드</a>
 
 # 3군
 
@@ -49,4 +49,4 @@ Shaku (2012) | Pegboard Nerds | SmokeyBacon | Hard | [1d62f](https://beatsaver.c
 Redo | Konomi Suzuki | Joshabi & Bytrius | Normal | [1c91c](https://beatsaver.com/maps/1c91c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1c91c)
 Punish | USAO | Timbo | Expert+ | [1acb3](https://beatsaver.com/maps/1acb3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1acb3)
 
-<a href="#" download="/playlist/KBSL3-8.bplist">3군 맵 풀 다운로드</a>
+<a href="#" download="https://bsckorea.github.io/playlist/KBSL3-8.bplist">3군 맵 풀 다운로드</a>
