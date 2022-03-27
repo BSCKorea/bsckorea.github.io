@@ -66,13 +66,17 @@ tags: K-BL
 
 ## 예선
 
-[제2회 전자칼잽이 대전 예선 맵 풀](/2022/03/12/KBL2-Qualifiers-Map-pool.html)
+- [예선 맵 풀](/2022/03/12/KBL2-Qualifiers-Map-pool.html)
+- [8강 맵풀](/2022/03/28/KBL2-Quarter-Finals-Map-pool.html)
 
 # 점수판 및 대진표
 
 ## 예선
 
 [제2회 전자칼잽이 대회 예선 점수판](https://detegice.github.io/KBL2-Qualifers-Scoreboard/)
+
+## 본선
+
 
 # 이벤트
 
