@@ -77,6 +77,14 @@ tags: K-BL
 
 ## 본선
 
+### 1군
+<iframe src="https://challonge.com/ko/kbl2nd_group1/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### 2군
+<iframe src="https://challonge.com/ko/kbl2nd_group2/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### 3군
+<iframe src="https://challonge.com/ko/kbl2nd_group3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 # 이벤트
 
