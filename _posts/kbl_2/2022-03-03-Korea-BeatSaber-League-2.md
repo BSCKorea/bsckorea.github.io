@@ -46,7 +46,8 @@ tags: K-BL
 :---|:---
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
-<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, ``Soba`s``, `johadesu`, `SieR`, `Kory04`
+<span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, ``Soba`s``, `johadesu`, `SieR`, `Kory04`, `Emiru`
+<span style="color:purple"><b>Technical Support</b></span> | `Gregi`
 <span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
 <span style="color:lightgreen"><b>Caster</b></span> | `Ted`, `LemoNade`
 
@@ -67,6 +68,9 @@ tags: K-BL
 ## 예선
 
 - [예선 맵 풀](/2022/03/12/KBL2-Qualifiers-Map-pool.html)
+
+## 본선
+
 - [8강 맵풀](/2022/03/28/KBL2-Quarter-Finals-Map-pool.html)
 
 # 점수판 및 대진표
