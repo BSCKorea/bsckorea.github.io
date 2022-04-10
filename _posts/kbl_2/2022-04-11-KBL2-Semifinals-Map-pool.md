@@ -43,4 +43,4 @@ Matasaburo | Yorushika | Emir | Hard | [19595](https://beatsaver.com/maps/19595)
 Wholeheartedly | Reol | Emir | Expert+ | [22d09](https://beatsaver.com/maps/22d09) | [미리보기](https://skystudioapps.com/bs-viewer/?id=22d09)
 Mister | Yoasobi | pupupi | Expert+ | [220a6](https://beatsaver.com/maps/220a6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=220a6)
 
-<a href="/playlist/KBSL3-4.bplist" download>2군 맵 풀 다운로드</a>
+<a href="/playlist/KBSL3-4.bplist" download>3군 맵 풀 다운로드</a>
