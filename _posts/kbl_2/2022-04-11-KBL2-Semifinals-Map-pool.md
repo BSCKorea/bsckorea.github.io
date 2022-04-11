@@ -22,7 +22,7 @@ MilK | Morimori Atsushi | nolan121405 | Normal | [24263](https://beatsaver.com/m
 FIN4LE 〜終止線の彼方へ〜 | kamome sano | Soba`s | Expert+ | [239a2](https://beatsaver.com/maps/239a2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=239a2)
 PP Breaker | Tanger | yabje & Soper | Expert+ | [1cc79](https://beatsaver.com/maps/1cc79) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1cc79)
 
-<a href="/playlist/KBSL1-4.bplist" download>2군 맵 풀 다운로드</a>
+<a href="/playlist/KBSL1-4.bplist" download>1군 맵 풀 다운로드</a>
 
 # 2군
 
