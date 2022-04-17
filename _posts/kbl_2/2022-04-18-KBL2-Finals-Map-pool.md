@@ -20,7 +20,7 @@ tags: K-BL
 :---|:---|:---|:---|:---|:---|
 LILAC | IU | Emir | Expert | [1ba3f](https://beatsaver.com/maps/1ba3f) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1ba3f)
 AK-40000000 | Kou! | Teuflum | Easy | [206b2](https://beatsaver.com/maps/206b2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=206b2)
-black bullet (TV Size) | fripSide | Expert+ | [9726](https://beatsaver.com/maps/9726) | [미리보기](https://skystudioapps.com/bs-viewer/?id=9726)
+black bullet (TV Size) | fripSide | CoolingCloset | Expert+ | [9726](https://beatsaver.com/maps/9726) | [미리보기](https://skystudioapps.com/bs-viewer/?id=9726)
 Inzen | BUTAOTOME | zeon | Expert+ | [240c3](https://beatsaver.com/maps/240c3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=240c3)
 Angel feat. Meika Mikoto | Kairiki Bear | TOFU & AaltopahWi | Expert+ | [224f1](https://beatsaver.com/maps/224f1) | [미리보기](https://skystudioapps.com/bs-viewer/?id=224f1)
 Konuko | Toumei Elegy | Nolanimations | Expert+ | [1f11c](https://beatsaver.com/maps/1f11c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1f11c)
