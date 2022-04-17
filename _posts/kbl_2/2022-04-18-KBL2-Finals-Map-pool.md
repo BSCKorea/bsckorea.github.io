@@ -23,7 +23,7 @@ AK-40000000 | Kou! | Teuflum | Easy | [206b2](https://beatsaver.com/maps/206b2) 
 black bullet (TV Size) | fripSide | CoolingCloset | Expert+ | [9726](https://beatsaver.com/maps/9726) | [미리보기](https://skystudioapps.com/bs-viewer/?id=9726)
 Inzen | BUTAOTOME | zeon | Expert+ | [240c3](https://beatsaver.com/maps/240c3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=240c3)
 Angel feat. Meika Mikoto | Kairiki Bear | TOFU & AaltopahWi | Expert+ | [224f1](https://beatsaver.com/maps/224f1) | [미리보기](https://skystudioapps.com/bs-viewer/?id=224f1)
-Konuko | Toumei Elegy | Nolanimations | Expert+ | [1f11c](https://beatsaver.com/maps/1f11c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1f11c)
+Toumei Elegy | Konuko | Nolanimations | Expert+ | [1f11c](https://beatsaver.com/maps/1f11c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1f11c)
 Clip it Bro | P*Light | Timbo | Expert+ | [1b728](https://beatsaver.com/maps/1b728) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1b728)
 
 <a href="/playlist/KBSL2-FINAL.bplist" download>2군 맵 풀 다운로드</a>
