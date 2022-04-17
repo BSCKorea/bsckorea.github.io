@@ -73,6 +73,7 @@ tags: K-BL
 
 - [8강 맵풀](/2022/03/28/KBL2-Quarter-Finals-Map-pool.html)
 - [4강 맵풀](/2022/04/11/KBL2-Semifinals-Map-pool.html)
+- [결승/3·4위전 맵풀](/2022/04/18/KBL2-Finals-Map-pool.html)
 
 # 점수판 및 대진표
 
