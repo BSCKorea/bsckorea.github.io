@@ -12,7 +12,17 @@ tags: K-BL
 
 # 1군
 
-4/20 이전 공개 예정
+곡 명 | 아티스트 | 맵 제작자 | 난이도 | BeatSaver | 미리보기
+:---|:---|:---|:---|:---|:---|
+I got it! | Mia REGINA | SieR | Expert+ | [24835](https://beatsaver.com/maps/24835) | [미리보기](https://skystudioapps.com/bs-viewer/?id=24835)
+LUDICROUS+ | Jaroslav Beck | A Jhintleman | Expert | [23236](https://beatsaver.com/maps/23236) | [미리보기](https://skystudioapps.com/bs-viewer/?id=23236)
+Bocca della Verita | Hizumi Rei feat. Meika Mikoto | Anammelech | Expert+ | [246dc](https://beatsaver.com/maps/246dc) | [미리보기](https://skystudioapps.com/bs-viewer/?id=246dc)
+t/a/n/a/s/i/n/n | Camellia | Soba`s | Expert+ | [1d2d3](https://beatsaver.com/maps/1d2d3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d2d3)
+Chimera | DECO*27 | Alice | Normal | [23f2d](https://beatsaver.com/maps/23f2d) | [미리보기](https://skystudioapps.com/bs-viewer/?id=23f2d)
+with U | t+pazolite & Massive New Krew | Milk | Hard | [23df1](https://beatsaver.com/maps/23df1) | [미리보기](https://skystudioapps.com/bs-viewer/?id=23df1)
+Huge W | Mori Calliope x Camellia | Joshabi | Expert+ | [23cfc](https://beatsaver.com/maps/23cfc) | [미리보기](https://skystudioapps.com/bs-viewer/?id=23cfc)
+
+<a href="/playlist/KBSL1-FINAL.bplist" download>1군 맵 풀 다운로드</a>
 
 # 2군
 
