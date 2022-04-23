@@ -12,7 +12,8 @@ layout: home
         </a>
     </div>
 </div>
-- - -
+
+<hr style="clear:left;">
 
 <div id="banner1">
     <div style="width:50%; float:left;">
@@ -27,7 +28,7 @@ layout: home
     </div>
 </div>
 
-- - -
+<hr style="clear:left;">
 
 <div id="banner2">
     <div style="width:50%; float:left;">
@@ -42,8 +43,7 @@ layout: home
     </div>
 </div>
 
-- - -
-
+<hr style="clear:left;">
 
 <div id="banner3">
     <div style="width:50%; float:left;">
