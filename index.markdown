@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -13,9 +10,7 @@ layout: home
     </div>
 </div>
 
-<hr style="clear:left;">
-
-<div id="banner1">
+<div id="banner1" style="clear:left;">
     <div style="width:50%; float:left;">
     <a href="https://discord.gg/SEFBZrG">
         <img width="100%" src="/img/discordbanner.png">
@@ -28,9 +23,7 @@ layout: home
     </div>
 </div>
 
-<hr style="clear:left;">
-
-<div id="banner2">
+<div id="banner2" style="clear:left;">
     <div style="width:50%; float:left;">
     <a href="https://scoresaber.com/rankings?page=1&countries=kr">
         <img width="100%" src="/img/ssrankbanner.png">
@@ -38,14 +31,12 @@ layout: home
     </div>
     <div style="width:50%; float:left;">
     <a href="https://www.youtube.com/channel/UCketR2dF6__YpvVqjbh0g3A">
-        <img width="100%" src="/img/bsckyoutubebanner.png">
+        <img width="100%" src="/img/bsckyoutube.png">
     </a>
     </div>
 </div>
 
-<hr style="clear:left;">
-
-<div id="banner3">
+<div id="banner3" style="clear:left;">
     <div style="width:50%; float:left;">
     <a href="https://twitter.com/korbeatsaber">
         <img width="100%" src="/img/bscktwitter.png">
