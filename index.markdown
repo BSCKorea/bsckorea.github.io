@@ -35,3 +35,14 @@ layout: home
     </a>
     </div>
 </div>
+
+- - -
+
+
+<div id="banner3">
+    <div style="width:50%; float:left;">
+    <a href="https://twitter.com/korbeatsaber">
+        <img width="100%" src="/img/bscktwitter.png">
+    </a>
+    </div>
+</div>
