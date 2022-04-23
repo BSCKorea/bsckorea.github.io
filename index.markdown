@@ -34,7 +34,7 @@ layout: home
 
 <div id="banner2">
     <div style="width:50%; float:left;">
-    <a href="https://scoresaber.com/global?country=kr">
+    <a href="https://scoresaber.com/rankings?page=1&countries=kr">
         <img width="100%" src="/img/ssrankbanner.png">
     </a>
     </div>
