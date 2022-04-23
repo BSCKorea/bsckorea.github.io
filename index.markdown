@@ -5,8 +5,17 @@
 layout: home
 ---
 
-
-[![2KBL2022](./img/kbl2/poster.png){: width="50%"}](/2022/03/03/Korea-BeatSaber-League-2.html)
+<div id="banner0">
+    <div style="width:50%; float: left;">
+        <a href="/2022/03/03/Korea-BeatSaber-League-2.html">
+            <img width="100%" src="/img/kbl2/poster.png">
+        </a>
+    </div>
+    <div style="width:50%; float: left;">
+        <a class="twitter-timeline" href="https://twitter.com/KORBeatSaber?ref_src=twsrc%5Etfw">Tweets by KORBeatSaber</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</div>
+- - -
 
 <div id="banner1">
     <div style="width:50%; float:left;">
