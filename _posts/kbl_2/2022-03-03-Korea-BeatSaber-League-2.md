@@ -47,9 +47,9 @@ tags: K-BL
 <span style="color:magenta"><b>Master</b></span> | `kaffu`
 <span style="color:Orange"><b>Community Staff</b></span> | `makeUmove`, `ArtemisBlue`, `LemoNade`, ``Soba`s``, `i_Bu`, `SuiSensei`
 <span style="color:purple"><b>Event Staff</b></span> | `SuiSensei`, ``Soba`s``, `johadesu`, `SieR`, `Kory04`, `Emiru`
-<span style="color:purple"><b>Technical Support</b></span> | `Gregi`
-<span style="color:	#1E90FF"><b>Supporter</b></span> | `Amylo`, `hestu`, `SieR`
-<span style="color:lightgreen"><b>Caster</b></span> | `Ted`, `LemoNade`
+<span style="color:red"><b>Technical Support</b></span> | `Gregi`
+<span style="color:	#1E90FF"><b>Community Supporter</b></span> | `Amylo`, `hestu`, `SieR`
+<span style="color:lightgreen"><b>Caster</b></span> | `Ted`, `LemoNade`, `johadesu`, `MaNaB`
 
 # 스폰서
 
@@ -148,11 +148,13 @@ tags: K-BL
     <td>전체 상금의 6%</td>
   </tr>
   <tr>
-    <td colspan="2">특별상<br>(추후 공개)</td>
-    <td>전체 상금의 9% + 기프티콘</td>
+    <td colspan="2"><s>특별상<br>(추후 공개)</s></td>
+    <td><s>전체 상금의 1%</s></td>
   </tr>
 </tbody>
 </table>
+
+<small>주최자의 계산 실수로 인하여 9%인줄 알았던 특별상 배분 비율이 사실은 1%였습니다. 5천원을 상금으로 걸기엔 좀 그래서 다음 대회 상금에 포함시키기로 하였습니다.</small>
 
 # 대회 진행 방식
 
