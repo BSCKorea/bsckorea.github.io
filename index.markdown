@@ -4,8 +4,8 @@ layout: home
 
 <div id="banner0">
     <div style="width:50%; float: left;">
-        <a href="/2022/03/03/Korea-BeatSaber-League-2.html">
-            <img width="100%" src="/img/kbl2/poster.png">
+        <a href="/2022/08/27/Korea-BeatSaber-League-3.html">
+            <img width="100%" src="/img/kbl3/poster.webp">
         </a>
     </div>
     <div style="width:50%; float:left;">
