@@ -37,6 +37,7 @@ tags: K-BL
 # 링크
 
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
+- [후원 링크](https://forms.gle/hWLhkQZM2pGHZQ3RA)
 
 # 운영진
 
@@ -49,7 +50,8 @@ tags: K-BL
 
 # 스폰서
 
-[![sui_sensei](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
+>  [스폰서 모집 중](https://forms.gle/hWLhkQZM2pGHZQ3RA)입니다! 문의는 디스코드 `kaffu#7363` 또는 `SuiSensei#3333`으로 DM 주세요!
+<!-- [![sui_sensei](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw) -->
 
 # 맵 풀
 
@@ -66,7 +68,7 @@ tags: K-BL
 
 # 상품
 
-<big>현재 총 상금 **5,000원**</big>
+<big>상금 예시</big>
 
 <table style="text-align: center;">
     <tr>
@@ -202,5 +204,3 @@ tags: K-BL
     2. 이를 위반할 경우, 향후 1년 내에 BSCK에서 주최 또는 주관하는 모든 대회에 참가할 수 없습니다.
 11. 경기 중 규칙 외에 즉석으로 결정이 필요한 사항이 있다면 참관 스태프의 결정에 따르며 이는 불복하지 않고 따라야 합니다.
 12. 대회 스태프, 플레이어 그리고 관계자 모두는 모두 존중받아야 하는 인격체입니다.
-
-> 스폰, 후원, 상품 지원은 디스코드 `kaffu#7363` 또는 `SuiSensei#3333` 으로 DM 주세요!
