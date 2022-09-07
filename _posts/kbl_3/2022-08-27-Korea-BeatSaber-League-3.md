@@ -1,6 +1,12 @@
 ---
 title: The III Korea BeatSaber League 2022
 tags: K-BL
+layout: large-video
+video_title: 제3회 전자칼잽이 대전
+video_subtitle: 2022/09/24 ~ 2022/11/19
+aos_video: /img/kbl3/kbl2-av1.mp4
+ios_video: /img/kbl3/kbl2-hevc.mp4
+
 ---
 
 ![K-BSL3 포스터 by nint1749 & i_Bu](/img/kbl3/poster.webp)

@@ -1,0 +1,167 @@
+<style type="text/css">
+  .masthead {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: none;
+  }
+  .masthead__video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(4px);
+  }
+  .masthead__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  .masthead__title {
+    font-size: 10vmin;
+    font-weight: bold;
+  }
+  .masthead__subtitle {
+    font-size: 5vmin;
+  }
+  .page__header,
+  .has-aside .col-aside > aside.fixed {
+    position: -webkit-sticky;
+    position: sticky;
+    top: -1px;
+    z-index: 1;
+  }
+  .page__aside .toc-aside {
+    padding-top: 5rem;
+  }
+  .masthead__scroll-arrow {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .masthead__scroll-arrow span {
+    display: block;
+    width: 5vmin;
+    height: 5vmin;
+    border-bottom: 1vmin solid #06a8ff;
+    border-right: 1vmin solid #06a8ff;
+    transform: rotate(45deg);
+    margin: -10px;
+    animation: animate 2s infinite;
+  }
+  .masthead__scroll-arrow span:nth-child(2) {
+    animation-delay: -0.2s;
+  }
+  .masthead__scroll-arrow span:nth-child(3) {
+    animation-delay: -0.4s;
+  }
+  @keyframes animate {
+    0% {
+      opacity: 0;
+      transform: rotate(45deg) translate(-3vmin, -3vmin);
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      transform: rotate(45deg) translate(3vmin, 3vmin);
+    }
+  }
+  @media (min-aspect-ratio: 4/3) {
+    .masthead {
+      display: block;
+    }
+  }
+</style>
+<script type="text/javascript">
+  function checkVideo() {
+    const NETWORK_NO_SOURCE = 3;
+    const notSupported =
+      document.querySelector('.masthead__video').networkState === NETWORK_NO_SOURCE;
+    if (notSupported) {
+      removeVideo();
+    }
+  }
+
+  function removeVideo() {
+    document.querySelector('.masthead').style.display = 'none';
+  }
+
+  function adjustMargin() {
+    const masthead = document.querySelector('.masthead');
+    masthead.style.marginTop = `${Math.min(window.scrollY, window.innerHeight)}px`;
+    masthead.style.height = `${Math.max(0, window.innerHeight - window.scrollY)}px`;
+  }
+  function observeScroll() {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          window.addEventListener('scroll', adjustMargin);
+        } else {
+          window.removeEventListener('scroll', adjustMargin);
+        }
+      },
+      { threshold: [0, 1] },
+    );
+    const masthead = document.querySelector('.masthead');
+    observer.observe(masthead);
+  }
+  document.addEventListener('DOMContentLoaded', observeScroll);
+</script>
+<script type="text/javascript">
+  function checkVideo() {
+    const NETWORK_NO_SOURCE = 3;
+    const notSupported =
+      document.querySelector('.masthead__video').networkState === NETWORK_NO_SOURCE;
+    if (notSupported) {
+      removeVideo();
+    }
+  }
+
+  function removeVideo() {
+    document.querySelector('.masthead').style.display = 'none';
+  }
+
+  function adjustMargin() {
+    const masthead = document.querySelector('.masthead');
+    masthead.style.marginTop = `${Math.min(window.scrollY, window.innerHeight)}px`;
+    masthead.style.height = `${Math.max(0, window.innerHeight - window.scrollY)}px`;
+  }
+  function observeScroll() {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          window.addEventListener('scroll', adjustMargin);
+        } else {
+          window.removeEventListener('scroll', adjustMargin);
+        }
+      },
+      { threshold: [0, 1] },
+    );
+    const masthead = document.querySelector('.masthead');
+    observer.observe(masthead);
+  }
+  document.addEventListener('DOMContentLoaded', observeScroll);
+</script>
+<div class="masthead">
+	<video class="masthead__video" width="1920" height="1080" muted loop autoplay playsinline poster="/img/kbl3/kbl2-preload.webp" onerror="removeVideo()">
+		<source src="{{ page.aos_video }}" type="video/mp4; codecs=av01.0.05M.08" onerror="checkVideo()" />
+		<source src="{{ page.ios_video }}" type="video/mp4; codecs=hvc1" onerror="checkVideo()" />
+	</video>
+	<div class="masthead__overlay">
+		<p class="masthead__title">{{ page.video_title }}</p>
+		<p class="masthead__subtitle">{{ page.video_subtitle }}</p>
+		<div class="masthead__scroll-arrow">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+</div>  
