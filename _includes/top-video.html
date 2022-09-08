@@ -4,6 +4,7 @@
     width: 100%;
     height: 100vh;
     display: none;
+    background: black;
   }
   .masthead__video {
     width: 100%;
@@ -154,7 +155,7 @@
   document.addEventListener('DOMContentLoaded', observeScroll);
 </script>
 <div class="masthead">
-	<video class="masthead__video" width="1920" height="1080" muted loop autoplay playsinline poster="/img/kbl3/kbl2-preload.webp" onerror="removeVideo()">
+	<video class="masthead__video" width="1920" height="1080" muted loop autoplay playsinline poster="{{ page.video_poster }}" onerror="removeVideo()">
 		<source src="{{ page.aos_video }}" type="video/mp4; codecs=av01.0.05M.08" onerror="checkVideo()" />
 		<source src="{{ page.ios_video }}" type="video/mp4; codecs=hvc1" onerror="checkVideo()" />
 	</video>
