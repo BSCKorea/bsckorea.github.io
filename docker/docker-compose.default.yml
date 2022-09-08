@@ -7,9 +7,10 @@ services:
       - JEKYLL_ENV
     ports:
       - 4000:4000
+      - 9989:9989
     container_name: jekyll-TeXt-theme_default
     volumes:
       - ..:/usr/src/app
     stdin_open: true
     tty: true
-    command: bundle exec jekyll serve -H 0.0.0.0 -t
+    command: bundle exec jekyll serve -H 0.0.0.0 -t --incremental --livereload --livereload-port 9989
