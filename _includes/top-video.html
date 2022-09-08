@@ -30,12 +30,15 @@
     font-size: 5vmin;
   }
   .page__header,
-  .has-aside .col-aside > aside.fixed {
+  .has-aside .col-aside > aside {
     position: -webkit-sticky;
     position: sticky;
     top: -1px;
-    z-index: 1;
   }
+  .page__header {
+		/* 맨아래로 스크롤 시 */
+		z-index: 1;
+	}
   .page__aside .toc-aside {
     padding-top: 5rem;
   }
