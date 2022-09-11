@@ -7,7 +7,6 @@ video_subtitle: 2022/09/24 ~ 2022/11/19
 video_poster: /img/kbl3/kbl2-preload.webp
 aos_video: /img/kbl3/kbl2-av1.mp4
 ios_video: /img/kbl3/kbl2-hevc.mp4
-
 ---
 
 ![K-BSL3 포스터 by nint1749 & i_Bu](/img/kbl3/poster.webp)
@@ -16,8 +15,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 참가 신청
 
-추후 공개 예정
-<!-- - *참가 신청 링크* -->
+- [참가 신청 링크](https://forms.gle/MiKV3w3g7vsLfwZp6)
 
 # 모집 부문
 
@@ -44,6 +42,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 # 링크
 
 - [BSCK 디스코드](https://discord.gg/SEFBZrG)
+- [참가 신청 링크](https://forms.gle/MiKV3w3g7vsLfwZp6)
 - [후원 링크](https://forms.gle/hWLhkQZM2pGHZQ3RA)
 
 # 운영진
