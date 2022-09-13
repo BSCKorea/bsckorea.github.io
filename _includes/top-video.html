@@ -37,9 +37,9 @@
     top: -1px;
   }
   .page__header {
-		/* 맨아래로 스크롤 시 */
-		z-index: 1;
-	}
+    /* 맨아래로 스크롤 시 */
+    z-index: 1;
+  }
   .page__aside .toc-aside {
     padding-top: 5rem;
   }
@@ -119,53 +119,32 @@
   }
   document.addEventListener('DOMContentLoaded', observeScroll);
 </script>
-<script type="text/javascript">
-  function checkVideo() {
-    const NETWORK_NO_SOURCE = 3;
-    const notSupported =
-      document.querySelector('.masthead__video').networkState === NETWORK_NO_SOURCE;
-    if (notSupported) {
-      removeVideo();
-    }
-  }
-
-  function removeVideo() {
-    document.querySelector('.masthead').style.display = 'none';
-  }
-
-  function adjustMargin() {
-    const masthead = document.querySelector('.masthead');
-    masthead.style.marginTop = `${Math.min(window.scrollY, window.innerHeight)}px`;
-    masthead.style.height = `${Math.max(0, window.innerHeight - window.scrollY)}px`;
-  }
-  function observeScroll() {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          window.addEventListener('scroll', adjustMargin);
-        } else {
-          window.removeEventListener('scroll', adjustMargin);
-        }
-      },
-      { threshold: [0, 1] },
-    );
-    const masthead = document.querySelector('.masthead');
-    observer.observe(masthead);
-  }
-  document.addEventListener('DOMContentLoaded', observeScroll);
-</script>
 <div class="masthead">
-	<video class="masthead__video" width="1920" height="1080" muted loop autoplay playsinline poster="{{ page.video_poster }}" onerror="removeVideo()">
-		<source src="{{ page.aos_video }}" type="video/mp4; codecs=av01.0.05M.08" onerror="checkVideo()" />
-		<source src="{{ page.ios_video }}" type="video/mp4; codecs=hvc1" onerror="checkVideo()" />
-	</video>
-	<div class="masthead__overlay">
-		<p class="masthead__title">{{ page.video_title }}</p>
-		<p class="masthead__subtitle">{{ page.video_subtitle }}</p>
-		<div class="masthead__scroll-arrow">
-			<span></span>
-			<span></span>
-			<span></span>
-		</div>
-	</div>
-</div>  
+  <video
+    class="masthead__video"
+    width="1920"
+    height="1080"
+    muted
+    loop
+    autoplay
+    playsinline
+    poster="{{ page.video_poster }}"
+    onerror="removeVideo()"
+  >
+    <source
+      src="{{ page.aos_video }}"
+      type="video/mp4; codecs=av01.0.05M.08"
+      onerror="checkVideo()"
+    />
+    <source src="{{ page.ios_video }}" type="video/mp4; codecs=hvc1" onerror="checkVideo()" />
+  </video>
+  <div class="masthead__overlay">
+    <p class="masthead__title">{{ page.video_title }}</p>
+    <p class="masthead__subtitle">{{ page.video_subtitle }}</p>
+    <div class="masthead__scroll-arrow">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</div>
