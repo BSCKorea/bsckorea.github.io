@@ -74,7 +74,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 상품
 
-<table>
+<table style="text-align: center;">
 <thead>
   <tr>
     <th colspan="2">총 상금</th>
