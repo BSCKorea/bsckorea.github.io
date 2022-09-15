@@ -55,8 +55,9 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 스폰서
 
->  [스폰서 모집 중](https://forms.gle/hWLhkQZM2pGHZQ3RA)입니다! 문의는 디스코드 `kaffu#7363` 또는 `SuiSensei#3333`으로 DM 주세요!
-<!-- [![sui_sensei](/img/kbl2/yt_suisensei.png){: height="130"}](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw) -->
+[![/img/kbl2/bs_pupupi.png](/img/kbl2/bs_pupupi.png){: height="130"}](https://beatsaver.com/profile/4319249)
+
+> [스폰서 모집 중](https://forms.gle/hWLhkQZM2pGHZQ3RA)입니다! 문의는 디스코드 `kaffu#7363` 또는 `SuiSensei#3333`으로 DM 주세요!
 
 # 맵 풀
 
@@ -73,67 +74,69 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 상품
 
-<big>상금 예시</big>
-
-<table style="text-align: center;">
-    <tr>
-        <td colspan="2">총 상금</td>
-        <td>TECH</td>
-        <td>ACC</td>
-        <td>SPEED</td>
-        <td>Senior</td>
-        <td>Junior</td>
-        <td>합계</td>
-    </tr>
-    <tr>
-        <td colspan="2">₩5,000</td>
-        <td>20%</td>
-        <td>20%</td>
-        <td>20%</td>
-        <td>20%</td>
-        <td>20%</td>
-        <td>100%</td>
-    </tr>
-    <tr>
-        <td>1등</td>
-        <td>50%</td>
-        <td>₩500 </td>
-        <td>₩500 </td>
-        <td>₩500 </td>
-        <td>₩500 </td>
-        <td>₩500 </td>
-        <td>₩2,500 </td>
-    </tr>
-    <tr>
-        <td>2등</td>
-        <td>30%</td>
-        <td>₩300 </td>
-        <td>₩300 </td>
-        <td>₩300 </td>
-        <td>₩300 </td>
-        <td>₩300 </td>
-        <td>₩1,500 </td>
-    </tr>
-    <tr>
-        <td>3등</td>
-        <td>20%</td>
-        <td>₩200 </td>
-        <td>₩200 </td>
-        <td>₩200 </td>
-        <td>₩200 </td>
-        <td>₩200 </td>
-        <td>₩1,000 </td>
-    </tr>
-    <tr>
-        <td>합계</td>
-        <td>100%</td>
-        <td>₩1,000 </td>
-        <td>₩1,000 </td>
-        <td>₩1,000 </td>
-        <td>₩1,000 </td>
-        <td>₩1,000 </td>
-        <td>₩5,000</td>
-    </tr>
+<table>
+<thead>
+  <tr>
+    <th colspan="2">총 상금</th>
+    <th>TECH</th>
+    <th>ACC</th>
+    <th>SPEED</th>
+    <th>Senior</th>
+    <th>Junior</th>
+    <th>합계</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">₩205,000</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>1등</td>
+    <td>50%</td>
+    <td>₩20,500</td>
+    <td>₩20,500</td>
+    <td>₩20,500</td>
+    <td>₩20,500</td>
+    <td>₩20,500</td>
+    <td>₩102,500</td>
+  </tr>
+  <tr>
+    <td>2등</td>
+    <td>30%</td>
+    <td>₩12,300</td>
+    <td>₩12,300</td>
+    <td>₩12,300</td>
+    <td>₩12,300</td>
+    <td>₩12,300</td>
+    <td>₩61,500</td>
+  </tr>
+  <tr>
+    <td>3등</td>
+    <td>20%</td>
+    <td>₩8,200</td>
+    <td>₩8,200</td>
+    <td>₩8,200</td>
+    <td>₩8,200</td>
+    <td>₩8,200</td>
+    <td>₩41,000</td>
+  </tr>
+  <tr>
+    <td>합계</td>
+    <td>100%</td>
+    <td>₩41,000</td>
+    <td>₩41,000</td>
+    <td>₩41,000</td>
+    <td>₩41,000</td>
+    <td>₩41,000</td>
+    <td>₩205,000</td>
+  </tr>
+</tbody>
 </table>
 
 # **대회 진행 방식**
