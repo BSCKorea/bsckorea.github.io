@@ -61,6 +61,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 ![Neo](/img/kbl3/bs_neo.png){: height="130"}
 
+[![BBosom](/img/kbl2/yt_bbosom.png){: height="130"}](https://youtube.com/channel/UCd6ENct-AAupVDQ0EYqUgXQ)
+
 > [스폰서 모집 중](https://forms.gle/hWLhkQZM2pGHZQ3RA)입니다! 문의는 디스코드 `kaffu#7363` 또는 `SuiSensei#3333`으로 DM 주세요!
 
 # 맵 풀
@@ -92,7 +94,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 </thead>
 <tbody>
   <tr>
-    <td colspan="2">₩325,000</td>
+    <td colspan="2">₩360,000</td>
     <td>20%</td>
     <td>20%</td>
     <td>20%</td>
@@ -103,42 +105,42 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
   <tr>
     <td>1등</td>
     <td>50%</td>
-    <td>₩32,500</td>
-    <td>₩32,500</td>
-    <td>₩32,500</td>
-    <td>₩32,500</td>
-    <td>₩32,500</td>
-    <td>₩162,500</td>
+    <td>₩36,000</td>
+    <td>₩36,000</td>
+    <td>₩36,000</td>
+    <td>₩36,000</td>
+    <td>₩36,000</td>
+    <td>₩180,000</td>
   </tr>
   <tr>
     <td>2등</td>
     <td>30%</td>
-    <td>₩19,500</td>
-    <td>₩19,500</td>
-    <td>₩19,500</td>
-    <td>₩19,500</td>
-    <td>₩19,500</td>
-    <td>₩97,500</td>
+    <td>₩21,600</td>
+    <td>₩21,600</td>
+    <td>₩21,600</td>
+    <td>₩21,600</td>
+    <td>₩21,600</td>
+    <td>₩108,000</td>
   </tr>
   <tr>
     <td>3등</td>
     <td>20%</td>
-    <td>₩13,000</td>
-    <td>₩13,000</td>
-    <td>₩13,000</td>
-    <td>₩13,000</td>
-    <td>₩13,000</td>
-    <td>₩65,000</td>
+    <td>₩14,400</td>
+    <td>₩14,400</td>
+    <td>₩14,400</td>
+    <td>₩14,400</td>
+    <td>₩14,400</td>
+    <td>₩72,000</td>
   </tr>
   <tr>
     <td>합계</td>
     <td>100%</td>
-    <td>₩65,000</td>
-    <td>₩65,000</td>
-    <td>₩65,000</td>
-    <td>₩65,000</td>
-    <td>₩65,000</td>
-    <td>₩325,000</td>
+    <td>₩72,000</td>
+    <td>₩72,000</td>
+    <td>₩72,000</td>
+    <td>₩72,000</td>
+    <td>₩72,000</td>
+    <td>₩360,000</td>
   </tr>
 </tbody>
 </table>
