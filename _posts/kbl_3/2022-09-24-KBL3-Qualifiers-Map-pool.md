@@ -41,11 +41,13 @@ tags: K-BL
 
 # 시니어
 
-Never Really Over | katy perry | puds | Expert+ | [76ca](https://beatsaver.com/maps/76ca) | [미리보기](https://skystudioapps.com/bs-viewer/?id=76ca)
-Target for love | Lee Jin-ah | SmileEaglet | Expert+ | [1ed57](https://beatsaver.com/maps/1ed57) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1ed57)
-ヒミツ feat. 可不 | MIMI | misterlihao | Expert+ | [27b55](https://beatsaver.com/maps/27b55) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27b55)
-Garakuta Doll Play | t+pazolite | Ge2toro | Expert+ | [266b3](https://beatsaver.com/maps/266b3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=266b3)
-Prometheus | Rameses B | eurnkung | Expert+ | [27233](https://beatsaver.com/maps/27233) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27233)
+| 곡 명              | 아티스트   | 맵 제작자   | 난이도  | BeatSaver                                 | 미리보기                                                  |
+| :----------------- | :--------- | :---------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
+| Never Really Over  | katy perry | puds        | Expert+ | [76ca](https://beatsaver.com/maps/76ca)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=76ca)  |
+| Target for love    | Lee Jin-ah | SmileEaglet | Expert+ | [1ed57](https://beatsaver.com/maps/1ed57) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1ed57) |
+| ヒミツ feat. 可不  | MIMI       | misterlihao | Expert+ | [27b55](https://beatsaver.com/maps/27b55) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27b55) |
+| Garakuta Doll Play | t+pazolite | Ge2toro     | Expert+ | [266b3](https://beatsaver.com/maps/266b3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=266b3) |
+| Prometheus         | Rameses B  | eurnkung    | Expert+ | [27233](https://beatsaver.com/maps/27233) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27233) |
 
 <a href="/playlist/kbsl3_senior_qualifier.json" download>시니어 맵 풀 다운로드</a>
 
