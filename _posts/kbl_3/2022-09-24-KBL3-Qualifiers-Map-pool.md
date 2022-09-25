@@ -17,13 +17,13 @@ tags: K-BL
 
 # ACC
 
-| 곡 명        | 아티스트 | 맵 제작자   | 난이도  | BeatSaver                                 | 미리보기                                                  |
-| :----------- | :------- | :---------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
-| Brain Power  | NOMA     | COCOAGALAXY | Normal  | [27eee](https://beatsaver.com/maps/27eee) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27eee) |
-| Cinderella   | DECO\*27 | TOFU        | Expert+ | [1b890](https://beatsaver.com/maps/1b890) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1b890) |
-| Phony        | Tsumiki  | TOFU        | Normal  | [271a6](https://beatsaver.com/maps/271a6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=271a6) |
-| Autonomy     | Kotone   | Joshabi     | Easy    | [22513](https://beatsaver.com/maps/22513) | [미리보기](https://skystudioapps.com/bs-viewer/?id=22513) |
-| Ai no Sukima | umu.     | Rigid       | Easy    | [57ed](https://beatsaver.com/maps/57ed)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=57ed)  |
+| 곡 명        | 아티스트 | 맵 제작자   | 난이도 | BeatSaver                                 | 미리보기                                                  |
+| :----------- | :------- | :---------- | :----- | :---------------------------------------- | :-------------------------------------------------------- |
+| Brain Power  | NOMA     | COCOAGALAXY | Normal | [27eee](https://beatsaver.com/maps/27eee) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27eee) |
+| Cinderella   | DECO\*27 | TOFU        | Easy   | [1b890](https://beatsaver.com/maps/1b890) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1b890) |
+| Phony        | Tsumiki  | TOFU        | Normal | [271a6](https://beatsaver.com/maps/271a6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=271a6) |
+| Autonomy     | Kotone   | Joshabi     | Easy   | [22513](https://beatsaver.com/maps/22513) | [미리보기](https://skystudioapps.com/bs-viewer/?id=22513) |
+| Ai no Sukima | umu.     | Rigid       | Easy   | [57ed](https://beatsaver.com/maps/57ed)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=57ed)  |
 
 <a href="/playlist/kbsl3_acc_qualifier.json" download>ACC 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_acc_qualifier.json)
 
