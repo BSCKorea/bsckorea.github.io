@@ -13,7 +13,7 @@ tags: K-BL
 | Heracles    | Yooh             | Fnyt            | Expert+ | [1f9f6](https://beatsaver.com/maps/1f9f6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1f9f6) |
 | Clip it Bro | P\*Light         | Timbo & abcbadq | Expert+ | [202d2](https://beatsaver.com/maps/202d2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=202d2) |
 
-<a href="/playlist/kbsl3_tech_qualifier.json" download>TECH 맵 풀 다운로드</a>
+<a href="/playlist/kbsl3_tech_qualifier.json" download>TECH 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_tech_qualifier.json)
 
 # ACC
 
@@ -25,7 +25,7 @@ tags: K-BL
 | Autonomy     | Kotone   | Joshabi     | Easy    | [22513](https://beatsaver.com/maps/22513) | [미리보기](https://skystudioapps.com/bs-viewer/?id=22513) |
 | Ai no Sukima | umu.     | Rigid       | Easy    | [57ed](https://beatsaver.com/maps/57ed)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=57ed)  |
 
-<a href="/playlist/kbsl3_acc_qualifier.json" download>ACC 맵 풀 다운로드</a>
+<a href="/playlist/kbsl3_acc_qualifier.json" download>ACC 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_acc_qualifier.json)
 
 # SPEED
 
@@ -37,7 +37,7 @@ tags: K-BL
 | Sendan Life     | CHUKKA            | cerret                  | Expert+ | [1d1e6](https://beatsaver.com/maps/1d1e6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d1e6) |
 | ᚛ᚄᚚᚓᚓᚇᚉᚑᚏᚓ᚜     | Dive to the Heart | Alpal & Cerret          | Expert  | [1e3ab](https://beatsaver.com/maps/1e3ab) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1e3ab) |
 
-<a href="/playlist/kbsl3_speed_qualifier.json" download>SPEED 맵 풀 다운로드</a>
+<a href="/playlist/kbsl3_speed_qualifier.json" download>SPEED 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_speed_qualifier.json)
 
 # 시니어
 
@@ -49,7 +49,7 @@ tags: K-BL
 | Garakuta Doll Play | t+pazolite | Ge2toro     | Expert+ | [266b3](https://beatsaver.com/maps/266b3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=266b3) |
 | Prometheus         | Rameses B  | eurnkung    | Expert+ | [27233](https://beatsaver.com/maps/27233) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27233) |
 
-<a href="/playlist/kbsl3_senior_qualifier.json" download>시니어 맵 풀 다운로드</a>
+<a href="/playlist/kbsl3_senior_qualifier.json" download>시니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_senior_qualifier.json)
 
 # Map pool team
 
