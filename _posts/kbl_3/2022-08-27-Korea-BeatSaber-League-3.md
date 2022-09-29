@@ -79,6 +79,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 상품
 
+## 대회 상금
+
 <table style="text-align: center;">
 <thead>
   <tr>
@@ -143,6 +145,10 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
   </tr>
 </tbody>
 </table>
+
+## 뽀솜특별상
+
+가장 적은 점수 차이로 경기에서 패배한 선수에게 5,000원 증정
 
 # **대회 진행 방식**
 
