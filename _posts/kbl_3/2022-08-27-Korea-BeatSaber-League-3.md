@@ -70,6 +70,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 ## 예선
 
 - [예선 맵 풀](/2022/09/24/KBL3-Qualifiers-Map-pool.html)
+- [테크 8강 맵 풀](/2022/10/04/KBL3-Quarter-Final-Map-pool.html)
 
 # 점수판 및 대진표
 
