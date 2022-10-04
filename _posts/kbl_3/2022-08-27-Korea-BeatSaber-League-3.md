@@ -48,9 +48,10 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 | 포지션                                                     | 인원                                                                                  |
 | :--------------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| <span style="color:purple;"><b>Event Staff</b></span>      | `Ganada0`, `nanikit`, `nint1749`, `MaNaB`, `i_Bu`, `kaffu`, `` Soba`s ``, `SuiSensei` |
+| <span style="color:purple;"><b>Event Staff</b></span>      | `Ganada0`, `nanikit`, `MaNaB`, `i_Bu`, `kaffu`, `SuiSensei` |
 | <span style="color:orange;"><b>Community Staff</b></span>  | `makeUmove`, `Artemisblue`, `LemoNade`, `` Soba`s ``, `i_Bu`, `SuiSensei`             |
 | <span style="color:red;"><b>Community Supporter</b></span> | `Amylo`, `hestu`                                                                      |
+| <span style="color:cyan;"><b>Map pooler</b></span> | `` Soba`s ``, `i_Bu`, `Amylo`, `Tyrits`, ``                                                                    |
 | <span style="color:lightgreen;"><b>Caster</b></span>       | `Ganada0`, `nint1749`                                                                 |
 
 # 스폰서
@@ -108,7 +109,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>100%</td>
   </tr>
   <tr>
-    <td colspan="2">1등</td>
+    <td>1등</td>
+    <td>50%</td>
     <td>₩35,500</td>
     <td>₩35,500</td>
     <td>₩35,500</td>
