@@ -50,9 +50,3 @@ tags: K-BL
 | Prometheus         | Rameses B  | eurnkung    | Expert+ | [27233](https://beatsaver.com/maps/27233) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27233) |
 
 <a href="/playlist/kbsl3_senior_qualifier.json" download>시니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_senior_qualifier.json)
-
-# Map pool team
-
-- `i_Bu`
-- `` Soba`s ``
-- `MaNaB`
