@@ -89,9 +89,31 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 점수판 및 대진표
 
+## 예선
+
 [제3회 전자칼잽이 대회 예선 점수판](https://detegice.github.io/KBSL3-Qualifiers-Scoreboard/)
 
-<!-- <iframe src="https://challonge.com/ko/kbl2nd_group1/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe> -->
+## 본선
+
+### 테크
+
+<iframe src="https://challonge.com/ko/4wfds8xh/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### SPEED
+
+<iframe src="https://challonge.com/ko/hl6bp0s3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### ACC
+
+<iframe src="https://challonge.com/ko/68s8nl6x/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### 시니어
+
+<iframe src="https://challonge.com/ko/smkz9yj/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+### 주니어
+
+<iframe src="https://challonge.com/ko/zx95ip3g/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 # 상품
 
