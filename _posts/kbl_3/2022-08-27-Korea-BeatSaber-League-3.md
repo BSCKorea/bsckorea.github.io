@@ -22,8 +22,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 - TECH 부문
 - ACC 부문
 - SPEED 부문
-- Senior 부문 (ScoreSaber 5000 ~ 9000pp 미만, 30~98등)
-- Junior 부문 (ScoreSaber 5000pp 미만)
+- 시니어 부문 (ScoreSaber 5000 ~ 9000pp 미만, 30~98등)
+- 주니어 부문 (ScoreSaber 5000pp 미만)
 
 랭킹에 없는 분께서는 본인의 실력에 적절하다고 판단되는 부문에 신청해주시기 바랍니다.
 
@@ -36,13 +36,13 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 | 09/10 ~ 09/30 | 신청 기간                                           |
 | 09/24 ~ 10/03 | **예선 곡 공개** / **예선**                         |
 | 10/08         | **ACC, SPEED, 시니어 A조, 주니어 1경기 맵 풀 공개** |
-| 10/08 ~ 10/09 | **테크 8강**                                        |
-| 10/10         | 테크 이외 조 추첨                                   |
-| 10/15         | **테크 4강 맵 풀 공개**                             |
+| 10/08 ~ 10/09 | **TECH 8강**                                        |
+| 10/10         | TECH 이외 조 추첨                                   |
+| 10/15         | **TECH 4강 맵 풀 공개**                             |
 | 10/15 ~ 10/16 | **ACC, SPEED, 시니어 A조, 주니어 1경기**            |
 | 10/22         | **주니어 2경기 맵 풀 공개**                         |
-| 10/22 ~ 10/23 | **테크 A, B조, ACC, SPEED, 시니어 B조 경기**        |
-| 10/24         | **테크, ACC, SPEED, 시니어 3, 4위전 맵 풀 공개**    |
+| 10/22 ~ 10/23 | **TECH A, B조, ACC, SPEED, 시니어 B조 경기**        |
+| 10/24         | **TECH, ACC, SPEED, 시니어 3, 4위전 맵 풀 공개**    |
 | 10/29 ~ 10/30 | **3, 4위전 및 주니어 2경기**                        |
 | 10/31         | **결승전, 주니어 3경기 맵 풀 공개**                 |
 | 11/05 ~ 11/06 | **결승전, 주니어 3경기**                            |
@@ -84,9 +84,9 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 ## 본선
 
-- [테크 8강 맵 풀](/2022/10/04/KBL3-Quarter-Final-Map-pool.html)
+- [TECH 8강 맵 풀](/2022/10/04/KBL3-Quarter-Final-Map-pool.html)
 - [ACC, SPEED, 시니어 4강, 주니어 1경기 맵 풀](/2022/10/08/KBL3-Semifinal-Map-pool.html)
-- [테크 4강 맵 풀](/2022/10/15/KBL3-Semifinal-Map-pool.html)
+- [TECH 4강 맵 풀](/2022/10/15/KBL3-Semifinal-Map-pool.html)
 
 # 점수판 및 대진표
 
@@ -96,7 +96,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 ## 본선
 
-### 테크
+### TECH
 
 <iframe src="https://challonge.com/ko/4wfds8xh/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
@@ -127,8 +127,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <th>TECH</th>
     <th>ACC</th>
     <th>SPEED</th>
-    <th>Senior</th>
-    <th>Junior</th>
+    <th>시니어</th>
+    <th>주니어</th>
     <th>합계</th>
   </tr>
 </thead>
