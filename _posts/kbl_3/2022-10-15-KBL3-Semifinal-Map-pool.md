@@ -17,4 +17,4 @@ tags: K-BL
 | Camellia - Circles of Death                                                                      | Camellia           | Joshabi                      | Expert+ | [282fa](https://beatsaver.com/maps/282fa) | [미리보기](https://skystudioapps.com/bs-viewer/?id=282fa) |
 | [Challenge] Juggernaut. - Valhalla:0 ![Tiebreaker](https://img.shields.io/badge/-Tiebreaker-red) | Juggernaut.        | Purp1e                       | Expert+ | [2692c](https://beatsaver.com/maps/2692c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2692c) |
 
-<a href="/playlist/kbsl3_tech_semifinal.json" download>TECH 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_tech_quarter_final.json)
+<a href="/playlist/kbsl3_tech_semifinal.json" download>TECH 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_tech_semifinal.json)
