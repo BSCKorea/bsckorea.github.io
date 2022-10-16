@@ -102,11 +102,11 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 ### SPEED
 
-<iframe src="https://challonge.com/ko/hl6bp0s3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="https://challonge.com/ko/68s8nl6x/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 ### ACC
 
-<iframe src="https://challonge.com/ko/68s8nl6x/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+<iframe src="https://challonge.com/ko/hl6bp0s3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 ### 시니어
 
