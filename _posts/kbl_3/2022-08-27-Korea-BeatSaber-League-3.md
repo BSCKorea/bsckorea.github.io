@@ -88,6 +88,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 - [ACC, SPEED, 시니어 4강, 주니어 1경기 맵 풀](/2022/10/08/KBL3-Semifinal-Map-pool.html)
 - [TECH 4강 맵 풀](/2022/10/15/KBL3-Semifinal-Map-pool.html)
 - [주니어 2경기 맵 풀](/2022/10/23/KBL3-Junior-Round-2-Map-pool.html)
+- [TECH, ACC, 시니어 3, 4위전 맵 풀](/2022/10/24/KBL3-Bronze-Map-pool.html)
 
 # 점수판 및 대진표
 
