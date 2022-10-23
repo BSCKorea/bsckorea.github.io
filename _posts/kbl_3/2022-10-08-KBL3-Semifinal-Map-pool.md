@@ -53,14 +53,16 @@ tags: K-BL
 
 # 주니어
 
-| 곡 명                                                                                          | 아티스트             | 맵 제작자        | 난이도  | BeatSaver                                 | 미리보기                                                  |
-| :--------------------------------------------------------------------------------------------- | :------------------- | :--------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
-| [Arcaea Mini-Pack] onoken - Last                                                               | onoken               | Spectral         | Expert+ | [2a487](https://beatsaver.com/maps/2a487) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a487) |
-| Tsumiki - Phony feat. Hoshimachi Suisei                                                        | Tsumiki              | TOFU             | Easy    | [271a6](https://beatsaver.com/maps/271a6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=271a6) |
-| Sugar Song to Bitter Step (TV Size) (2022 Remap) [Kekkai Sensen Ending] - UNISON SQUARE GARDEN | UNISON SQUARE GARDEN | Joetastic        | Easy    | [2778f](https://beatsaver.com/maps/2778f) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2778f) |
-| NAYEON - LOVE COUNTDOWN (Feat. Wonstein)                                                       | NAYEON               | simplymarvellous | Normal  | [2827f](https://beatsaver.com/maps/2827f) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2827f) |
-| Love in the Milky Way Café 사랑은 은하수 다방에서(cover by Vlichan비챤)                        | 10cm                 | Emir             | Hard    | [26b74](https://beatsaver.com/maps/26b74) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26b74) |
-| Giga - CH4NGE (Finana Ryugu Cover)                                                             | Giga                 | shad             | Easy    | [282ba](https://beatsaver.com/maps/282ba) | [미리보기](https://skystudioapps.com/bs-viewer/?id=282ba) |
-| †:OLPHEUX:† (Extended Mix) - Juggernaut.                                                       | Juggernaut.          | That_Narwhal     | Easy    | [234c9](https://beatsaver.com/maps/234c9) | [미리보기](https://skystudioapps.com/bs-viewer/?id=234c9) |
+| 곡 명                      | 아티스트               | 맵 제작자        | 난이도  | BeatSaver                                 | 미리보기                                                  |
+| :------------------------- | :--------------------- | :--------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
+| Phony                      | Tsumiki                | TOFU             | Easy    | [271a6](https://beatsaver.com/maps/271a6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=271a6) |
+| Sugar Song to Bitter Step  | UNISON SQUARE GARDEN   | Joetastic        | Easy    | [2778f](https://beatsaver.com/maps/2778f) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2778f) |
+| LOVE COUNTDOWN             | NAYEON                 | simplymarvellous | Normal  | [2827f](https://beatsaver.com/maps/2827f) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2827f) |
+| KING                       | Kanaria                | Joshabi          | Expert  | [1d6c9](https://beatsaver.com/maps/1d6c9) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d6c9) |
+| †:OLPHEUX:†                | Juggernaut.            | That_Narwhal     | Easy    | [234c9](https://beatsaver.com/maps/234c9) | [미리보기](https://skystudioapps.com/bs-viewer/?id=234c9) |
+| Say it                     | Assistant & squeaksies | squeaksies       | Expert+ | [4a21](https://beatsaver.com/maps/4a21)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=4a21)  |
+| Love in the Milky Way Café | 10cm                   | Emir             | Hard    | [26b74](https://beatsaver.com/maps/26b74) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26b74) |
+| CH4NGE                     | Giga                   | shad             | Easy    | [282ba](https://beatsaver.com/maps/282ba) | [미리보기](https://skystudioapps.com/bs-viewer/?id=282ba) |
+| Last                       | onoken                 | Spectral         | Expert+ | [2a487](https://beatsaver.com/maps/2a487) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a487) |
 
 <a href="/playlist/kbsl3_junior_round_1.json" download>주니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_junior_round_1.json)

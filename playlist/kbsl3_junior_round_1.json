@@ -7,19 +7,7 @@
   },
   "songs": [
     {
-      "songName": "[Arcaea Mini-Pack] onoken - Last",
-      "levelAuthorName": "Spectral",
-      "hash": "542383EE586746DD90CC25176FBE4E46E8D7FA79",
-      "levelid": "custom_level_542383EE586746DD90CC25176FBE4E46E8D7FA79",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Tsumiki - Phony feat. Hoshimachi Suisei",
+      "songName": "Phony",
       "levelAuthorName": "TOFU",
       "hash": "69480AAC62D5A61363C2938D8CB3F58BBA3EC437",
       "levelid": "custom_level_69480AAC62D5A61363C2938D8CB3F58BBA3EC437",
@@ -31,7 +19,7 @@
       ]
     },
     {
-      "songName": "Sugar Song to Bitter Step (TV Size) (2022 Remap) [Kekkai Sensen Ending] - UNISON SQUARE GARDEN",
+      "songName": "Sugar Song to Bitter Step (TV Size) (2022 Remap)",
       "levelAuthorName": "Joetastic",
       "hash": "E450F1D28EFAF4723EECA752B2F292519C9159E2",
       "levelid": "custom_level_E450F1D28EFAF4723EECA752B2F292519C9159E2",
@@ -43,7 +31,7 @@
       ]
     },
     {
-      "songName": "NAYEON - LOVE COUNTDOWN (Feat. Wonstein)",
+      "songName": "LOVE COUNTDOWN",
       "levelAuthorName": "simplymarvellous",
       "hash": "793CF579A2CD5D75ACC99341B9E3C8AF835596B8",
       "levelid": "custom_level_793CF579A2CD5D75ACC99341B9E3C8AF835596B8",
@@ -55,7 +43,43 @@
       ]
     },
     {
-      "songName": "Love in the Milky Way Café 사랑은 은하수 다방에서(cover by Vlichan비챤)",
+      "songName": "KING",
+      "levelAuthorName": "Joshabi",
+      "hash": "0668A672F22875AAECF69EFD473A08202244B8FB",
+      "levelid": "custom_level_0668A672F22875AAECF69EFD473A08202244B8FB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "†:OLPHEUX:†",
+      "levelAuthorName": "That_Narwhal",
+      "hash": "848493EC6103F7FA681B5FB81A29723A5A3E006C",
+      "levelid": "custom_level_848493EC6103F7FA681B5FB81A29723A5A3E006C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Say it",
+      "levelAuthorName": "squeaksies",
+      "hash": "70FE590B6CE4AA9818B556B7A8F8C7E997A62285",
+      "levelid": "custom_level_70FE590B6CE4AA9818B556B7A8F8C7E997A62285",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Love in the Milky Way Café",
       "levelAuthorName": "Emir",
       "hash": "4B9AB390F9305C65E2D2345FA6C5C4063611B626",
       "levelid": "custom_level_4B9AB390F9305C65E2D2345FA6C5C4063611B626",
@@ -67,7 +91,7 @@
       ]
     },
     {
-      "songName": "Giga - CH4NGE (Finana Ryugu Cover)",
+      "songName": "CH4NGE",
       "levelAuthorName": "shad",
       "hash": "3EB7FDF9AD13934DD06F1BE7CA6EBE77D6AB4D32",
       "levelid": "custom_level_3EB7FDF9AD13934DD06F1BE7CA6EBE77D6AB4D32",
@@ -79,14 +103,14 @@
       ]
     },
     {
-      "songName": "†:OLPHEUX:† (Extended Mix) - Juggernaut. ",
-      "levelAuthorName": "That_Narwhal",
-      "hash": "848493EC6103F7FA681B5FB81A29723A5A3E006C",
-      "levelid": "custom_level_848493EC6103F7FA681B5FB81A29723A5A3E006C",
+      "songName": "Last",
+      "levelAuthorName": "Spectral",
+      "hash": "542383EE586746DD90CC25176FBE4E46E8D7FA79",
+      "levelid": "custom_level_542383EE586746DD90CC25176FBE4E46E8D7FA79",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "ExpertPlus"
         }
       ]
     }
