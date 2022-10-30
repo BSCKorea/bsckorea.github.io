@@ -23,49 +23,49 @@ TECH는 타이브레이커가 없습니다.
 
 # SPEED
 
-| 곡 명                         | 아티스트             | 맵 제작자        | 난이도  | BeatSaver                                 | 미리보기                                                  |
-| :---------------------------- | :------------------- | :--------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
-| Night Raid with a Dragon      | Camellia             | nolan121405      | Expert  | [1d3f5](https://beatsaver.com/maps/1d3f5) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d3f5) |
-| FEARLESS                      | LE SSERAFIM          | Alice            | Expert+ | [26826](https://beatsaver.com/maps/26826) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26826) |
-| Iya Girl                      | Kairiki Bear         | Yaomin           | Expert+ | [27ce6](https://beatsaver.com/maps/27ce6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27ce6) |
-| Carmen                        | Mikansei Monologue   | AntiLink         | Hard    | [2881d](https://beatsaver.com/maps/2881d) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2881d) |
-| Yooh - Enter The Fire         | Yooh                 | Darkrealm7       | Expert+ | [27ef3](https://beatsaver.com/maps/27ef3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27ef3) |
-| New Donk City (Metro Kingdom) | Various Artists      | yabje            | Expert+ | [28ae3](https://beatsaver.com/maps/28ae3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=28ae3) |
-| Late Night Talking            | Harry Styles         | Olaf             | Expert+ | [291ba](https://beatsaver.com/maps/291ba) | [미리보기](https://skystudioapps.com/bs-viewer/?id=291ba) |
-| Kingslayer                    | Bring Me The Horizon | muffn & altrewin | Normal  | [14427](https://beatsaver.com/maps/14427) | [미리보기](https://skystudioapps.com/bs-viewer/?id=14427) |
-| Kiss Me More                  | Doja Cat             | Olaf             | Expert+ | [18d1d](https://beatsaver.com/maps/18d1d) | [미리보기](https://skystudioapps.com/bs-viewer/?id=18d1d) |
+| 곡 명                                                             | 아티스트                | 맵 제작자           | 난이도  | BeatSaver                                 | 미리보기                                                  |
+| :---------------------------------------------------------------- | :---------------------- | :------------------ | :------ | :---------------------------------------- | :-------------------------------------------------------- |
+| Dyscontrolled Galaxy                                              | Camellia                | Soba`s              | Expert+ | [14513](https://beatsaver.com/maps/14513) | [미리보기](https://skystudioapps.com/bs-viewer/?id=14513) |
+| Ready For The Madness                                             | RiraN                   | Cat Using A Toaster | Expert+ | [2367e](https://beatsaver.com/maps/2367e) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2367e) |
+| iLLness LiLin                                                     | Kaneko Chiharu          | Jojobanana          | Expert+ | [282f3](https://beatsaver.com/maps/282f3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=282f3) |
+| MECHANiCLYSM                                                      | Xyris                   | cerret              | Expert+ | [2868b](https://beatsaver.com/maps/2868b) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2868b) |
+| Grimm ![Tiebreaker](https://img.shields.io/badge/-Tiebreaker-red) | RoughSketch ft. aikapin | Aquaflee            | Expert+ | [26c47](https://beatsaver.com/maps/26c47) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26c47) |
+| Galaxy Friends                                                    | Kobaryo                 | Soba`s              | Expert+ | [29245](https://beatsaver.com/maps/29245) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29245) |
+| II. Anal Prolapse Suffocation                                     | Infant Annihilator      | Vilawes             | Expert+ | [2a1b3](https://beatsaver.com/maps/2a1b3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a1b3) |
+| zeke didn't "invent dariacore", i did                             | coltrane                | Anammelech          | Expert+ | [2a25b](https://beatsaver.com/maps/2a25b) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a25b) |
+| Attractor Dimension                                               | Laur                    | Soba`s              | Expert+ | [2a69c](https://beatsaver.com/maps/2a69c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a69c) |
 
 <a href="/playlist/kbsl3_speed_final.json" download>SPEED 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_speed_final.json)
 
 # ACC
 
-| 곡 명                                 | 아티스트                | 맵 제작자           | 난이도  | BeatSaver                                 | 미리보기                                                  |
-| :------------------------------------ | :---------------------- | :------------------ | :------ | :---------------------------------------- | :-------------------------------------------------------- |
-| Dyscontrolled Galaxy                  | Camellia                | Soba`s              | Expert+ | [14513](https://beatsaver.com/maps/14513) | [미리보기](https://skystudioapps.com/bs-viewer/?id=14513) |
-| Ready For The Madness                 | RiraN                   | Cat Using A Toaster | Expert+ | [2367e](https://beatsaver.com/maps/2367e) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2367e) |
-| iLLness LiLin                         | Kaneko Chiharu          | Jojobanana          | Expert+ | [282f3](https://beatsaver.com/maps/282f3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=282f3) |
-| MECHANiCLYSM                          | Xyris                   | cerret              | Expert+ | [2868b](https://beatsaver.com/maps/2868b) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2868b) |
-| Grimm                                 | RoughSketch ft. aikapin | Aquaflee            | Expert+ | [26c47](https://beatsaver.com/maps/26c47) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26c47) |
-| Galaxy Friends                        | Kobaryo                 | Soba`s              | Expert+ | [29245](https://beatsaver.com/maps/29245) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29245) |
-| II. Anal Prolapse Suffocation         | Infant Annihilator      | Vilawes             | Expert+ | [2a1b3](https://beatsaver.com/maps/2a1b3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a1b3) |
-| zeke didn't "invent dariacore", i did | coltrane                | Anammelech          | Expert+ | [2a25b](https://beatsaver.com/maps/2a25b) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a25b) |
-| Attractor Dimension                   | Laur                    | Soba`s              | Expert+ | [2a69c](https://beatsaver.com/maps/2a69c) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a69c) |
+| 곡 명                                                                             | 아티스트             | 맵 제작자        | 난이도  | BeatSaver                                 | 미리보기                                                  |
+| :-------------------------------------------------------------------------------- | :------------------- | :--------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
+| Night Raid with a Dragon                                                          | Camellia             | nolan121405      | Expert  | [1d3f5](https://beatsaver.com/maps/1d3f5) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1d3f5) |
+| FEARLESS                                                                          | LE SSERAFIM          | Alice            | Expert+ | [26826](https://beatsaver.com/maps/26826) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26826) |
+| Iya Girl                                                                          | Kairiki Bear         | Yaomin           | Expert+ | [27ce6](https://beatsaver.com/maps/27ce6) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27ce6) |
+| Carmen                                                                            | Mikansei Monologue   | AntiLink         | Hard    | [2881d](https://beatsaver.com/maps/2881d) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2881d) |
+| Yooh - Enter The Fire ![Tiebreaker](https://img.shields.io/badge/-Tiebreaker-red) | Yooh                 | Darkrealm7       | Expert+ | [27ef3](https://beatsaver.com/maps/27ef3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27ef3) |
+| New Donk City (Metro Kingdom)                                                     | Various Artists      | yabje            | Expert+ | [28ae3](https://beatsaver.com/maps/28ae3) | [미리보기](https://skystudioapps.com/bs-viewer/?id=28ae3) |
+| Late Night Talking                                                                | Harry Styles         | Olaf             | Expert+ | [291ba](https://beatsaver.com/maps/291ba) | [미리보기](https://skystudioapps.com/bs-viewer/?id=291ba) |
+| Kingslayer                                                                        | Bring Me The Horizon | muffn & altrewin | Normal  | [14427](https://beatsaver.com/maps/14427) | [미리보기](https://skystudioapps.com/bs-viewer/?id=14427) |
+| Kiss Me More                                                                      | Doja Cat             | Olaf             | Expert+ | [18d1d](https://beatsaver.com/maps/18d1d) | [미리보기](https://skystudioapps.com/bs-viewer/?id=18d1d) |
 
 <a href="/playlist/kbsl3_acc_final.json" download>ACC 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_acc_final.json)
 
 # 시니어
 
-| 곡 명              | 아티스트     | 맵 제작자                    | 난이도  | BeatSaver                                 | 미리보기                                                  |
-| :----------------- | :----------- | :--------------------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
-| Android Girl       | DECO\*27     | Danrabomb                    | Expert+ | [25bd0](https://beatsaver.com/maps/25bd0) | [미리보기](https://skystudioapps.com/bs-viewer/?id=25bd0) |
-| WAO!!              | Hakui Koyori | Alice                        | Expert+ | [26d33](https://beatsaver.com/maps/26d33) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26d33) |
-| Garakuta Doll Play | t+pazolite   | RJB                          | Expert+ | [27309](https://beatsaver.com/maps/27309) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27309) |
-| Miracle            | Andora       | Joetastic                    | Expert+ | [27c90](https://beatsaver.com/maps/27c90) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27c90) |
-| Chocolate Lily     | Kobaryo      | Rogdude                      | Expert  | [ba40](https://beatsaver.com/maps/ba40)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=ba40)  |
-| monochrome dream   | t+pazolite   | CMP1111                      | Expert  | [28869](https://beatsaver.com/maps/28869) | [미리보기](https://skystudioapps.com/bs-viewer/?id=28869) |
-| Clip it Bro        | P\*Light     | Timbo & abcbadq              | Expert  | [202d2](https://beatsaver.com/maps/202d2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=202d2) |
-| YURUSHITE          | t+pazolite   | ptotpa, Astrella, & miitchel | Expert  | [25671](https://beatsaver.com/maps/25671) | [미리보기](https://skystudioapps.com/bs-viewer/?id=25671) |
-| When I use it      | Buster Nalmi | Astrella & Timbo             | Normal  | [27bae](https://beatsaver.com/maps/27bae) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27bae) |
+| 곡 명                                                                      | 아티스트     | 맵 제작자                    | 난이도  | BeatSaver                                 | 미리보기                                                  |
+| :------------------------------------------------------------------------- | :----------- | :--------------------------- | :------ | :---------------------------------------- | :-------------------------------------------------------- |
+| Android Girl                                                               | DECO\*27     | Danrabomb                    | Expert+ | [25bd0](https://beatsaver.com/maps/25bd0) | [미리보기](https://skystudioapps.com/bs-viewer/?id=25bd0) |
+| WAO!!                                                                      | Hakui Koyori | Alice                        | Expert+ | [26d33](https://beatsaver.com/maps/26d33) | [미리보기](https://skystudioapps.com/bs-viewer/?id=26d33) |
+| Garakuta Doll Play                                                         | t+pazolite   | RJB                          | Expert+ | [27309](https://beatsaver.com/maps/27309) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27309) |
+| Miracle                                                                    | Andora       | Joetastic                    | Expert+ | [27c90](https://beatsaver.com/maps/27c90) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27c90) |
+| Chocolate Lily ![Tiebreaker](https://img.shields.io/badge/-Tiebreaker-red) | Kobaryo      | Rogdude                      | Expert  | [ba40](https://beatsaver.com/maps/ba40)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=ba40)  |
+| monochrome dream                                                           | t+pazolite   | CMP1111                      | Expert  | [28869](https://beatsaver.com/maps/28869) | [미리보기](https://skystudioapps.com/bs-viewer/?id=28869) |
+| Clip it Bro                                                                | P\*Light     | Timbo & abcbadq              | Expert  | [202d2](https://beatsaver.com/maps/202d2) | [미리보기](https://skystudioapps.com/bs-viewer/?id=202d2) |
+| YURUSHITE                                                                  | t+pazolite   | ptotpa, Astrella, & miitchel | Expert  | [25671](https://beatsaver.com/maps/25671) | [미리보기](https://skystudioapps.com/bs-viewer/?id=25671) |
+| When I use it                                                              | Buster Nalmi | Astrella & Timbo             | Normal  | [27bae](https://beatsaver.com/maps/27bae) | [미리보기](https://skystudioapps.com/bs-viewer/?id=27bae) |
 
 <a href="/playlist/kbsl3_senior_final.json" download>시니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_senior_final.json)
 
@@ -83,3 +83,5 @@ TECH는 타이브레이커가 없습니다.
 | Luigi's Mansion  | Pegboard Nerds | Rayman9515                        | Expert | [c209](https://beatsaver.com/maps/c209)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=c209)  |
 
 <a href="/playlist/kbsl3_junior_round_3.json" download>주니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_junior_round_3.json)
+
+주니어는 타이브레이커가 없습니다.
