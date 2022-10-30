@@ -71,15 +71,15 @@ TECH는 타이브레이커가 없습니다.
 
 # 주니어
 
-| 곡 명                                                                | 아티스트       | 맵 제작자                         | 난이도 | BeatSaver                                 | 미리보기                                                  |
-| :------------------------------------------------------------------- | :------------- | :-------------------------------- | :----- | :---------------------------------------- | :-------------------------------------------------------- |
-| At God's Mercy (short var.) - Kami no Manimani (feat.Vocaloids) (v2) | Dack           | Dack                              | Expert | [3b0a](https://beatsaver.com/maps/3b0a)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=3b0a)  |
-| Cinderella                                                           | DECO\*27       | TOFU                              | Hard   | [1b890](https://beatsaver.com/maps/1b890) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1b890) |
-| Scream                                                               | Dreamcatcher   | noxn; simplymarvellous; aggrogahu | Expert | [8d49](https://beatsaver.com/maps/8d49)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=8d49)  |
-| Trinity Homerun                                                      | KASAI HARCORES | Tseska, Irish & Joshabi           | Normal | [29d32](https://beatsaver.com/maps/29d32) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29d32) |
-| After LIKE                                                           | IVE            | eurnkung                          | Expert | [29296](https://beatsaver.com/maps/29296) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29296) |
-| Say (All I Need)                                                     | OneRepublic    | RateGyro                          | Hard   | [2a669](https://beatsaver.com/maps/2a669) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a669) |
-| Journey                                                              | DECO\*27       | Alice                             | Normal | [2a793](https://beatsaver.com/maps/2a793) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a793) |
-| Luigi's Mansion                                                      | Pegboard Nerds | Rayman9515                        | Expert | [c209](https://beatsaver.com/maps/c209)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=c209)  |
+| 곡 명            | 아티스트       | 맵 제작자                         | 난이도 | BeatSaver                                 | 미리보기                                                  |
+| :--------------- | :------------- | :-------------------------------- | :----- | :---------------------------------------- | :-------------------------------------------------------- |
+| At God's Mercy   | Dack           | Dack                              | Expert | [3b0a](https://beatsaver.com/maps/3b0a)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=3b0a)  |
+| Cinderella       | DECO\*27       | TOFU                              | Hard   | [1b890](https://beatsaver.com/maps/1b890) | [미리보기](https://skystudioapps.com/bs-viewer/?id=1b890) |
+| Scream           | Dreamcatcher   | noxn; simplymarvellous; aggrogahu | Expert | [8d49](https://beatsaver.com/maps/8d49)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=8d49)  |
+| Trinity Homerun  | KASAI HARCORES | Tseska, Irish & Joshabi           | Normal | [29d32](https://beatsaver.com/maps/29d32) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29d32) |
+| After LIKE       | IVE            | eurnkung                          | Expert | [29296](https://beatsaver.com/maps/29296) | [미리보기](https://skystudioapps.com/bs-viewer/?id=29296) |
+| Say (All I Need) | OneRepublic    | RateGyro                          | Hard   | [2a669](https://beatsaver.com/maps/2a669) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a669) |
+| Journey          | DECO\*27       | Alice                             | Normal | [2a793](https://beatsaver.com/maps/2a793) | [미리보기](https://skystudioapps.com/bs-viewer/?id=2a793) |
+| Luigi's Mansion  | Pegboard Nerds | Rayman9515                        | Expert | [c209](https://beatsaver.com/maps/c209)   | [미리보기](https://skystudioapps.com/bs-viewer/?id=c209)  |
 
 <a href="/playlist/kbsl3_junior_round_3.json" download>주니어 맵 풀 다운로드</a> [![바로 설치](https://img.shields.io/badge/-%EB%B0%94%EB%A1%9C%20%EC%84%A4%EC%B9%98-blue)](bsplaylist://playlist/https://bsckorea.github.io/playlist/kbsl3_junior_round_3.json)
