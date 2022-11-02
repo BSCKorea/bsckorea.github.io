@@ -7,10 +7,46 @@
   },
   "songs": [
     {
-      "songName": "At God's Mercy (short var.) - Kami no Manimani (feat.Vocaloids) (v2)",
-      "levelAuthorName": "Dack",
-      "hash": "7ed25d3b4c32d819722056cd79a4fe8198df2a45",
-      "levelid": "custom_level_7ed25d3b4c32d819722056cd79a4fe8198df2a45",
+      "songName": "Chururira Chururira Daddadda!",
+      "levelAuthorName": "ejiejidayo",
+      "hash": "543f740efb46df5fb7fe85bb8360417b6b526bcc",
+      "levelid": "custom_level_543f740efb46df5fb7fe85bb8360417b6b526bcc",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Luigi's Mansion",
+      "levelAuthorName": "Rayman9515",
+      "hash": "e7cdcc86e136da49cce9747233131e819cabe951",
+      "levelid": "custom_level_e7cdcc86e136da49cce9747233131e819cabe951",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "After LIKE",
+      "levelAuthorName": "eurnkung",
+      "hash": "77698f9a14d20ac6e44869cf3c081e9304fe7b8f",
+      "levelid": "custom_level_77698f9a14d20ac6e44869cf3c081e9304fe7b8f",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Horang Pungryuga",
+      "levelAuthorName": "SieR",
+      "hash": "22dd7dc62e59f935ef73cc586f51eaa28ad854e7",
+      "levelid": "custom_level_22dd7dc62e59f935ef73cc586f51eaa28ad854e7",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -43,10 +79,22 @@
       ]
     },
     {
+      "songName": "Always (V2)",
+      "levelAuthorName": "Emir",
+      "hash": "8cbbe708ad7e758415a06e912d82600c905ce909",
+      "levelid": "custom_level_8cbbe708ad7e758415a06e912d82600c905ce909",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Trinity Homerun",
       "levelAuthorName": "Tseska, Irish & Joshabi",
-      "hash": "e4fdf162fd916ccfedce76e9cf9567f536d5e0a7",
-      "levelid": "custom_level_e4fdf162fd916ccfedce76e9cf9567f536d5e0a7",
+      "hash": "747b1976840e7954f124761506370f7177b6cfa3",
+      "levelid": "custom_level_747b1976840e7954f124761506370f7177b6cfa3",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -55,10 +103,10 @@
       ]
     },
     {
-      "songName": "After LIKE",
-      "levelAuthorName": "eurnkung",
-      "hash": "77698f9a14d20ac6e44869cf3c081e9304fe7b8f",
-      "levelid": "custom_level_77698f9a14d20ac6e44869cf3c081e9304fe7b8f",
+      "songName": "At God's Mercy (v2)",
+      "levelAuthorName": "Dack",
+      "hash": "7ed25d3b4c32d819722056cd79a4fe8198df2a45",
+      "levelid": "custom_level_7ed25d3b4c32d819722056cd79a4fe8198df2a45",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -87,18 +135,6 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
-        }
-      ]
-    },
-    {
-      "songName": "Luigi's Mansion",
-      "levelAuthorName": "Rayman9515",
-      "hash": "e7cdcc86e136da49cce9747233131e819cabe951",
-      "levelid": "custom_level_e7cdcc86e136da49cce9747233131e819cabe951",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     }

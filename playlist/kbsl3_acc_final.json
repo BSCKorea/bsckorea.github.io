@@ -55,7 +55,7 @@
       ]
     },
     {
-      "songName": "Yooh - Enter The Fire",
+      "songName": "Enter The Fire",
       "levelAuthorName": "Darkrealm7",
       "hash": "ed570f6ff3f691e703a1ec1b072ebea02f45bc24",
       "levelid": "custom_level_ed570f6ff3f691e703a1ec1b072ebea02f45bc24",
@@ -111,6 +111,30 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Existentia",
+      "levelAuthorName": "General Dumbass",
+      "hash": "af9fb77ea883342b3ff2a2827210e34bcf9a6f67",
+      "levelid": "custom_level_af9fb77ea883342b3ff2a2827210e34bcf9a6f67",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Heroes",
+      "levelAuthorName": "SSnowy + RFCaps",
+      "hash": "3ba27d62171488bedaa2e0d88c4d5c99b18efbd9",
+      "levelid": "custom_level_3ba27d62171488bedaa2e0d88c4d5c99b18efbd9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
         }
       ]
     }

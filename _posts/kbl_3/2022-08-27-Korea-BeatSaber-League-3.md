@@ -130,8 +130,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <th>TECH</th>
     <th>ACC</th>
     <th>SPEED</th>
-    <th>Senior</th>
-    <th colspan="2">Junior</th>
+    <th>시니어</th>
+    <th colspan="2">주니어</th>
     <th>합계</th>
   </tr>
 </thead>
