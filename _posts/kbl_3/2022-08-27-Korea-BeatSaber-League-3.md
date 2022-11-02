@@ -130,8 +130,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <th>TECH</th>
     <th>ACC</th>
     <th>SPEED</th>
-    <th>시니어</th>
-    <th>주니어</th>
+    <th>Senior</th>
+    <th colspan="2">Junior</th>
     <th>합계</th>
   </tr>
 </thead>
@@ -142,7 +142,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>20%</td>
     <td>20%</td>
     <td>20%</td>
-    <td>20%</td>
+    <td colspan="2">20%</td>
     <td>100%</td>
   </tr>
   <tr>
@@ -152,8 +152,9 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>₩35,500</td>
     <td>₩35,500</td>
     <td>₩35,500</td>
-    <td>₩35,500</td>
-    <td>₩177,500</td>
+    <td>60%</td>
+    <td>₩42,600</td>
+    <td>₩184,601</td>
   </tr>
   <tr>
     <td>2등</td>
@@ -162,8 +163,9 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>₩21,300</td>
     <td>₩21,300</td>
     <td>₩21,300</td>
-    <td>₩21,300</td>
-    <td>₩106,500</td>
+    <td>40%</td>
+    <td>₩28,400</td>
+    <td>₩113,600</td>
   </tr>
   <tr>
     <td>3등</td>
@@ -172,8 +174,8 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>₩14,200</td>
     <td>₩14,200</td>
     <td>₩14,200</td>
-    <td>₩14,200</td>
-    <td>₩71,000</td>
+    <td colspan="2"></td>
+    <td>₩56,800</td>
   </tr>
   <tr>
     <td>합계</td>
@@ -182,7 +184,7 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
     <td>₩71,000</td>
     <td>₩71,000</td>
     <td>₩71,000</td>
-    <td>₩71,000</td>
+    <td colspan="2">₩71,000</td>
     <td>₩355,000</td>
   </tr>
 </tbody>
