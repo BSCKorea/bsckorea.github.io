@@ -56,13 +56,13 @@ ios_video: /img/kbl3/kbl2-hevc.mp4
 
 # 운영진
 
-| 포지션                                                     | 인원                                             |
-| :--------------------------------------------------------- | :----------------------------------------------- |
-| <span style="color:purple;"><b>Event Staff</b></span>      | `kaffu`, `SuiSensei`, `nanikit`                  |
-| <span style="color:orange;"><b>Community Staff</b></span>  | `makeUmove`, `Artemisblue`, `LemoNade`           |
-| <span style="color:red;"><b>Community Supporter</b></span> | `Amylo`, `hestu`                                 |
-| <span style="color:cyan;"><b>Map pooler</b></span>         | `i_Bu`, `` Soba`s ``, `MaNaB`, `Amylo`, `Tyrits` |
-| <span style="color:lightgreen;"><b>Caster</b></span>       | `Ganada0`, `nint1749`, `johadesu`, `zigabyte`    |
+| 포지션                                                     | 인원                                                                 |
+| :--------------------------------------------------------- | :------------------------------------------------------------------- |
+| <span style="color:purple;"><b>Event Staff</b></span>      | `kaffu`, `SuiSensei`, `nanikit`                                      |
+| <span style="color:orange;"><b>Community Staff</b></span>  | `makeUmove`, `Artemisblue`, `LemoNade`                               |
+| <span style="color:red;"><b>Community Supporter</b></span> | `Amylo`, `hestu`                                                     |
+| <span style="color:cyan;"><b>Map pooler</b></span>         | `i_Bu`, `` Soba`s ``, `MaNaB`, `Amylo`, `Tyrits`, `SuiSensei`        |
+| <span style="color:lightgreen;"><b>Caster</b></span>       | `Ganada0`, `nint1749`, `johadesu`, `zigabyte`, `Hae_Jun`, `정신차려` |
 
 # 스폰서
 
