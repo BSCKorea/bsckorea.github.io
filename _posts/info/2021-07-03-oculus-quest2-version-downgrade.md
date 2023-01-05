@@ -3,18 +3,16 @@ title: 오큘러스 퀘스트2 버전다운그레이드 (최신 → 1.13.2)
 tags: 정보
 ---
 
-1. [https://bslegacy.com/](https://bslegacy.com/) 접속후 
-Quest Downgrader > Oculus APK Download 로 이동
+1. [https://auth.oculus.com/login/](https://auth.oculus.com/login/) 접속후 
+오큘러스 스토어 아이디로 로그인 합니다.
 
-![](/img/information/27.png)
+2. 그 후 [https://oculusdb.rui2015.me/id/2448060205267927](https://oculusdb.rui2015.me/id/2448060205267927/) 로 이동합니다.
 
-![](/img/information/28.png)
+3. 홈페이지에서 원하는 버전을 다운로드 합니다.
 
-2. [https://www.oculus.com/](https://www.oculus.com/) 에서 로그인
+![](/img/information/46.png)
 
-3. 그 후 1.13.2 비트세이버 apk 파일 받으시면 됩니다
-
-4. 그 후 사이드퀘스트로 퀘스트 내에 apk 파일 까시면 됩니다.
+3. 그 후 사이드퀘스트로 퀘스트 내에 apk 파일 까시면 됩니다.
 
 ![](/img/information/29.png)
 
