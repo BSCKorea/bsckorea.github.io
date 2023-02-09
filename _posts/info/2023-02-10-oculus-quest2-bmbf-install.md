@@ -11,13 +11,7 @@ tags: 정보
 
 1. BMBF apk 다운로드
 
-    [https://bmbf.dev/stable](https://bmbf.dev/stable) 링크로 들어가서
-
-    Assets 부분에 있는 " com.weloveoculus.BMBF.apk " 를 클릭하여 파일을 다운로드 해줍니다.
-
-    ![](/img/information/26.png)
-
-    사이드퀘스트에 연결하여 위에서 다운로드 받은 BMBF.apk 파일을 설치 !
+    사이드퀘스트 홈메뉴 위에 Search에서 BMBF를 검색 후 설치해줍니다.
 
 2. BMBF 설치
 
