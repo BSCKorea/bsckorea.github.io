@@ -15,11 +15,11 @@ Z-Offset이 없어지고 Worldcam Visibility와 Preview Size가 추가됩니다.
 **Worldcam Visibility**
 
 - VR안에서 카메라를 보이게 할건지 설정하는것 같습니다. (기본 HiddenWhilePlaying(플레이 할때만 숨김))
- - Visible(항상 보임) , HiddenWhilePlaying(플레이 할때만 숨김) , Hidden (숨김)
+ - Visible(항상 보임) , HiddenWhilePlaying(플레이 할때만 숨김) , Hidden(숨김)
 
 **Preview Size**
 
-- 이거는..모르겠습니다 놔두어도 쓸만합니다. (기본 0.30)
+- 인게임 내 카메라 위치조절시 프리뷰 사이즈입니다.
 
 ![](/img/information/10.png)
 
@@ -39,15 +39,15 @@ Z-Offset이 없어지고 Worldcam Visibility와 Preview Size가 추가됩니다.
 
 **Debris**
 
-- ScoreSaber의 기능중 하나인 리플레이를 사용할 때 노트 잔해를 설정합니다. (기본 활성화)
+- 카메라에 보이는 노트 잔해(노트를 베었을 시 나오는 조각)를 설정합니다. (기본 활성화)
 
 **Cut Particles**
 
-- 위의 **Debris** 기능과 유사하지만, **본인이 직접** 플레이 할 때 나오는 노트 잔해를 설정합니다. (기본 활성화)
+- 플레이할 때 나오는 노트를 베었을 때의 파티클을 설정합니다. (기본 활성화)
 
 **Avatar**
 
-- Custom Avatar와 VMCAvater(이건 확실치 않음)를 사용할때 나오는 캐릭터를 설정합니다. (기본 활성화)
+- Custom Avatar와 VMCAvater(Nalululuna)를 사용할때 나오는 캐릭터를 설정합니다. (기본 활성화)
 
 **UI**
 
@@ -61,7 +61,7 @@ Z-Offset이 없어지고 Worldcam Visibility와 Preview Size가 추가됩니다.
 
 **Follow360**
 
-- 360도,90도 맵을 플레이 할 때 카메라가 따라가는지 설정하는 겁니다. (기본 활성화)
+- 360도,90도 맵을 플레이 할 때 카메라가 따라가는지 설정합니다. (기본 활성화)
 
 **Rotation Smoothing**
 

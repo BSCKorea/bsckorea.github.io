@@ -1,5 +1,5 @@
 ---
-title: PP-랭킹 관련
+title: PP / 랭킹 관련
 tags: 정보
 ---
 
@@ -20,7 +20,7 @@ Scoresaber에서는 당신이 플레이 한 모든 랭크 맵의 가중치를 �
 
 제가 150PP를 먹었는데 총 PP는 10PP밖에 안올랐어요!
 위의 글을 다시 읽어보시고, 영어를 하실수 있으시다면 아래의 링크로 들어가 글을 읽어보시기 바랍니다.
-https://bsaber.com/indepth-guide/
+[https://bsaber.com/indepth-guide/](https://bsaber.com/indepth-guide/)
 
 ------------------------------------------------------------------------------------
 
@@ -39,12 +39,12 @@ https://bsaber.com/indepth-guide/
 
 
 모딩이 뭔가요?
-모딩은 "OSU!"에서 나온 개념으로, 맵 에디터와 게임 내에서의 분석을 통해 맵을 검토하고 피드백을 제공하는 과정입니다.
+모딩은 [OSU!]에서 나온 개념으로, 맵 에디터와 게임 내에서의 분석을 통해 맵을 검토하고 피드백을 제공하는 과정입니다.
 
 ------------------------------------------------------------------------------------
 
 제 맵이 랭크 맵이 되려면 어떻게 해야하나요?
-맵이 랭크 맵이 되려면, 랭크 기준(https://scoresaber.com/criteria) 을 이해하는 사람들의 모딩을 받아야합니다. 
+맵이 랭크 맵이 되려면, [랭크 기준](https://scoresaber.com/criteria) 을 이해하는 사람들의 모딩을 받아야합니다. 
 그 맵이 랭크 맵에 적합하다고 평가될때까지는 여러 번의 모딩이 필요할 수 있습니다. 
 만일 적합하다고 판단되면 (자신 또는 모딩 해준 사람에 의해) Scoresaber 디스코드 서버의 #rank-request 채널에 해당 맵의 BeatSaver 링크와 Scoresaber 링크를 올리세요. 
 수락받는다면 랭크 팀이 투표 가능한 랭크 맵 요청 대기열에 넣습니다.
@@ -54,7 +54,7 @@ https://bsaber.com/indepth-guide/
 랭킹 팀이 되려면 어떻게 해야하나요?
 랭킹 팀은 랭크 맵 적합 여부를 스스로 판단할 수 있는 커뮤니티 회원입니다. 
 주로 다른 사람들을 위한 활발한 모딩이 필요합니다. 
-모딩을 시작하려면 이 가이드를 참조하세요:[https://docs.google.com/document/d/11fAO8zgZCsUdgttXcnjfCzrQYg6YsGFAYEgxCUkULxc/edit?usp=sharing] (https://docs.google.com/document/d/11fAO8zgZCsUdgttXcnjfCzrQYg6YsGFAYEgxCUkULxc/edit?usp=sharing)
+모딩을 시작하려면 이 가이드를 참조하세요:[https://docs.google.com/document/d/11fAO8zgZCsUdgttXcnjfCzrQYg6YsGFAYEgxCUkULxc/edit?usp=sharing](https://docs.google.com/document/d/11fAO8zgZCsUdgttXcnjfCzrQYg6YsGFAYEgxCUkULxc/edit?usp=sharing)
 
 ------------------------------------------------------------------------------------
 

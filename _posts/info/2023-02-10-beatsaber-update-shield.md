@@ -5,7 +5,7 @@ tags: 정보
 
 [https://github.com/kinsi55/BeatSaber_UpdateSkipper](https://github.com/kinsi55/BeatSaber_UpdateSkipper)
 
-Camera2 개발자가 만든  스팀 업데이트 방지 프로그램 입니다.
+Camera2 개발자가 만든 **스팀 비트세이버 업데이트 방지** 프로그램 입니다.
 
 원래대로 되돌리려면
 

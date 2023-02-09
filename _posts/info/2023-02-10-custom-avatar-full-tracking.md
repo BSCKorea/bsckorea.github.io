@@ -7,7 +7,7 @@ tags: 정보
 
 커스텀 아바타 플러그인 버전 4.5 이상
 
-[https://github.com/xyonico/CustomAvatarsPlugin/releases](https://github.com/xyonico/CustomAvatarsPlugin/releases)
+[아바타 모드 적용법](/2023/02/10/avatar-mod-apply-1-16-1.html) 참조
 
 Unity 2018.1.6f1
 
