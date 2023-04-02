@@ -3,6 +3,10 @@ title: 플레이 리스트 제작 프로그램
 tags: 정보
 ---
 
+## [여기](/2023/04/02/how-to-making-playlist.html) 에서 플레이 리스트 간편 제작 방법을 확인할 수 있습니다.
+
+#
+
 원문
 
 [Reddit | [v1.1] Beatlist can now get playlist from bsaber and beatmap from beatsaver !](https://www.reddit.com/r/beatsaber/comments/de5bee/v11_beatlist_can_now_get_playlist_from_bsaber_and/)
