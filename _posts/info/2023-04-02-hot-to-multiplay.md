@@ -9,7 +9,7 @@ tags: 정보
 
 
 ## BeatTogether를 사용한 멀티플레이 방법
-1. [모드 어시스턴트](/2023/02/10/hot-to-install-mode.html) 에서 [BeatTogether] , [ServerBrowser] , [MultiplayerCore] 를 설치한다.
+1. [모드 어시스턴트](/2023/02/10/how-to-install-mode.html) 에서 [BeatTogether] , [ServerBrowser] , [MultiplayerCore] 를 설치한다.
 
 2. 비트세이버를 실행한 후 메인메뉴에서 **온라인** 을 누른다.
 2. 서버 생성을 누르고 [최대 플레이어 수] , [Server Name] 을 설정하고 **생성**을 클릭한다.
