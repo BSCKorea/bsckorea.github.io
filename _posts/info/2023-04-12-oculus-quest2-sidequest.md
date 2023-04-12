@@ -28,10 +28,12 @@ tags: 정보
 - 3. 사이드 퀘스트 설치
 
     [https://sidequestvr.com/download](https://sidequestvr.com/download) 링크로 접속해서
-
+    
     사이드 퀘스트 프로그램을 설치해주시면됩니다.
+    
+    단, **Easy Installer** 말고 **Advanced Installer** 를 설치해주세요.
 
-    설치후 실행하면 프로그램 자체적으로 업데이트 있을 경우 업데이트를 진행합니다.
+    설치후 실행하면 프로그램 자체적으로 업데이트가 있을 경우 업데이트를 진행합니다.
 
     이후 완료되면 사용하시면됩니다.
 

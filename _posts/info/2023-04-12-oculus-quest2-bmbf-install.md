@@ -7,11 +7,11 @@ tags: 정보
 
 `사이드퀘스트 설치방법은 아래 링크에`
 
-[오큘러스 퀘스트2 사이드퀘스트 설치](/2021/06/27/oculus-quest2-sidequest.html) 
+[오큘러스 퀘스트2 사이드퀘스트 설치](/2023/04/12/oculus-quest2-sidequest.html) 
 
 1. BMBF apk 다운로드
 
-    사이드퀘스트 홈메뉴 위에 Search에서 BMBF를 검색 후 설치해줍니다.
+    사이드퀘스트 홈메뉴 위에 Search(돋보기) 에서 BMBF를 검색 후 설치해줍니다.
 
 2. BMBF 설치
 
