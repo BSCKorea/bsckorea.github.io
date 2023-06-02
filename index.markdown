@@ -15,8 +15,8 @@ layout: home
 
 <div id="banner1" style="clear:left;">
     <div style="width:50%; float:left;">
-    <a href="https://discord.gg/SEFBZrG">
-        <img width="100%" src="/img/discordbanner.png">
+    <a href="https://www.youtube.com/channel/UCketR2dF6__YpvVqjbh0g3A">
+        <img width="100%" src="/img/bsckyoutube.png">
     </a>
     </div>
     <div style="width:50%; float:left;">
@@ -33,8 +33,8 @@ layout: home
     </a>
     </div>
     <div style="width:50%; float:left;">
-    <a href="https://www.youtube.com/channel/UCketR2dF6__YpvVqjbh0g3A">
-        <img width="100%" src="/img/bsckyoutube.png">
+    <a href="https://www.beatleader.xyz/ranking/1?countries=kr">
+        <img width="100%" src="/img/blrankbanner.png">
     </a>
     </div>
 </div>
@@ -43,6 +43,11 @@ layout: home
     <div style="width:50%; float:left;">
     <a href="https://twitter.com/korbeatsaber">
         <img width="100%" src="/img/bscktwitter.png">
+    </a>
+    </div>
+    <div style="width:50%; float:left;">
+    <a href="https://discord.gg/SEFBZrG">
+        <img width="100%" src="/img/discordbanner.png">
     </a>
     </div>
 </div>
