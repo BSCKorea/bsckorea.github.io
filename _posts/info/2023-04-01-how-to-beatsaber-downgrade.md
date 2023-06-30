@@ -3,6 +3,11 @@ title: 비트세이버 다운그레이드 하는법
 tags: 정보
 ---
 
+```
+1.29.4 유니티 업데이트로 인한 필수 다운그레이드는 아래의 링크를 이용하는 것이 간편합니다.
+```
+### [외부 프로그램 없이 다운그레이드 하기](/2023/06/30/downgrade-steambeta.html)
+
 준비물 : **백업본** & [**LegacyInstaller**](https://github.com/Goobwabber/LegacyInstaller/releases/download/1.1.4/LegacyInstaller.zip)
 
 사용 방법

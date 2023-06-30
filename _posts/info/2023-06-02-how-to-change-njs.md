@@ -16,7 +16,7 @@ tags: 정보
 `OffsetFixer`는 [비트세이버 모딩 그룹](https://discord.gg/beatsabermods)에서 다운로드하실 수 있습니다.
 `JDFixer`는 모드 어시스턴트에서 다운로드하실 수 있습니다.
 
-먼저 모드를 [모드 어시스턴트에서](/2023/02/10/how-to-install-mode.htmd) 설치 후 게임 내에서 Enabled를 활성화해 줍니다.
+먼저 모드를 [모드 어시스턴트에서](/2023/02/10/how-to-install-mode.html) 설치 후 게임 내에서 Enabled를 활성화해 줍니다.
 
 NJS(Note Jump Speed)는 노트 점프 스피드라고 해서 노트가 생성되고 플레이어한테 날라오는 속도를 의미합니다.
 
