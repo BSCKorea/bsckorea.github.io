@@ -2,17 +2,6 @@
 layout: home
 ---
 
-<div id="banner0">
-    <div style="width:50%; float: left;">
-        <a href="/2022/08/27/Korea-BeatSaber-League-3.html">
-            <img width="100%" src="/img/kbl3/poster.webp">
-        </a>
-    </div>
-    <div style="width:50%; float:left;">
-        <a class="twitter-timeline" data-height="200" href="https://twitter.com/KORBeatSaber?ref_src=twsrc%5Etfw">Tweets by KORBeatSaber</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </div>
-</div>
-
 <div id="banner1" style="clear:left;">
     <div style="width:50%; float:left;">
     <a href="https://www.youtube.com/channel/UCketR2dF6__YpvVqjbh0g3A">
