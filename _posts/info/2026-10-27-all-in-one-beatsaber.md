@@ -155,7 +155,6 @@ BSManager에서 아래 모드를 설치 해줍시다.
 5-3-1. VDXR 사용 시 BSManager에서 게임 실행 안되는 경우 (unity 오류, 메모리 오류)
 
 방법ⓐ. (VDXR 포기) 버데탑 OpenXR Runtime을 automatic으로 두거나 SteamVR로 두면 SteamVR로 실행 됨 (SteamVR 설치 필요)
-24b0d121e09c28a8699fe8b115ef0469973ef5bf 
 
 
 
